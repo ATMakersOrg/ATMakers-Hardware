@@ -10,13 +10,10 @@
 <p>
 <b>To Do</b>:
 <ul>
-<li>label contact terminals
 <li>bottom label address
 <li>bottom label 26V 2.0A max
 <li>bottom label product
+<li>ground left holes
 </ul>
 <p>
-<b>Validate Footprint</b>:
-<ul>
-<li>
-</ul>
+<b>Footprints Validated</b>
