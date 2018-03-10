@@ -1,0 +1,22 @@
+<h3>Bill's Topology</h3>
+<b>Changes</b>:
+<ul>
+<li>relays moved to edge
+<li>new EE2 device
+<li>resistor network
+<li>micro reset switch
+<li>terminal blocks fixed
+</ul>
+<p>
+<b>To Do</b>:
+<ul>
+<li>label contact terminals
+<li>bottom label address
+<li>bottom label 26V 2.0A max
+<li>bottom label product
+</ul>
+<p>
+<b>Validate Footprint</b>:
+<ul>
+<li>
+</ul>
