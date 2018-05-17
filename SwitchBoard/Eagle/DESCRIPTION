@@ -6,6 +6,10 @@
 <li>resistor network
 <li>micro reset switch
 <li>terminal blocks fixed
+<li><b>May</b>
+<li>Port A: set lines + 3 gpio<br/>Port B: reset lines + 3 gpio
+<li>2x8 breakout connector reworked for A and B sides
+<li>Fixed resistor network, new device CTS746X101
 </ul>
 <p>
 <b>To Do</b>:
