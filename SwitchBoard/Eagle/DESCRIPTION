@@ -7,14 +7,17 @@
 <li>micro reset switch
 <li>terminal blocks fixed
 <li><b>May</b>
+<li>bottom logo
 <li>Port A: set lines + 3 gpio<br/>Port B: reset lines + 3 gpio
 <li>2x8 breakout connector reworked for A and B sides
 <li>Fixed resistor network, new device CTS746X101
+<li>Rounded corners
+<li>Added Relay labels (mostly)
 </ul>
 <p>
 <b>To Do</b>:
 <ul>
-<li>bottom logo
+<li>add rating and CS DC Only
 <li>ground left mounting holes
 </ul>
 <p>
