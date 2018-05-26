@@ -1,0 +1,39 @@
+Partlist
+
+Exported from RelayWing.brd at 5/16/2018 4:14 PM
+
+EAGLE Version 9.0.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value             Package            Library      Position (mil)        Orientation
+
+A0                         SJW-SHORTED        home         (100 2200)            MR270
+A1                         SJW-SHORTED        home         (250 2200)            MR270
+C1       MUR-1220-CAP      CAPC2012           home         (1000 1600)           R180
+C2       MUR-1220-CAP      CAPC2012           home         (400 2400)            R0
+JP1                        2X04               pinhead      (1200 1650)           R270
+JP2                        1X16               pinhead      (1000 1350)           R0
+JP3                        1X12               pinhead      (1200 1950)           R180
+K1       EE2-3TNUH         NUH                home         (1700 2300)           R0
+K2       EE2-3TNUH         NUH                home         (1050 2300)           R0
+K3       EE2-3TNUH         NUH                home         (400 1000)            R180
+K4       EE2-3TNUH         NUH                home         (1050 1000)           R180
+K5       EE2-3TNUH         NUH                home         (1700 1000)           R180
+MS1      FEATHERWING_NODIM FEATHERWING_DIM    microbuilder (0 1200)              R0
+PWR                        1206               led          (250 2650)            R180
+R1       0.1               M3216              resistor     (570 2420)            R180
+RESET    B3U-10XX          B3U-10XX           home         (150 2400)            R0
+RN1      CTS7461011        CTS746             home         (1900 1650)           R270
+TB1      KF120-6P          KF120-6P_ROUND     home         (1650 2600)           R180
+TB2      KF120-6P          KF120-6P_ROUND     home         (1000 2600)           R180
+TB3      KF120-6P          KF120-6P_ROUND     home         (350 700)             R0
+TB4      KF120-6P          KF120-6P_ROUND     home         (1000 700)            R0
+TB5      KF120-6P          KF120-6P_ROUND     home         (1650 700)            R0
+TB6      KF120-2P          KF120-2P_ROUND     home         (500 2600)            R180
+U$2      FIDUCIAL          FIDUCIAL_1MM       adafruit     (75 2675)             R0
+U$3      FIDUCIAL          FIDUCIAL_1MM       adafruit     (1975 615)            R0
+U1       ULN2003ANS        SO16-NS            home         (300 1700)            R0
+U2       ULN2003ANS        SO16-NS            home         (1550 1650)           R270
+U3       MCP23017SS        SSOP28             microchip    (750 1650)            R90
+U4       INA219AID         SOIC127P600X175-8N home         (530 2230)            R0
