@@ -13,12 +13,14 @@
 <li>Fixed resistor network, new device CTS746X101
 <li>Rounded corners
 <li>Added Relay labels (mostly)
+<li>Changed Relay Driver p/n (ansR)
 </ul>
 <p>
 <b>To Do</b>:
 <ul>
 <li>add rating and CS DC Only
 <li>ground left mounting holes
+<li>insert remaining part numbers
 </ul>
 <p>
 <b>Footprints Validated</b>

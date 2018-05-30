@@ -1924,7 +1924,7 @@ Distributor: Digi Key</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ULN2003ANS" prefix="IC">
+<deviceset name="ULN2003ANSR" prefix="IC">
 <description>&lt;b&gt;DRIVER ARRAY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2001A" x="0" y="0"/>

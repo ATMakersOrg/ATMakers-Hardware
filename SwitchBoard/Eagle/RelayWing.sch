@@ -7,7 +7,7 @@
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.05" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.02" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -7672,7 +7672,7 @@ WITH HIGH SURGE VOLTAGE &amp; HIGH BREAKDOWN VOLTAGE&lt;br&gt;
 <wire x1="-7.62" y1="0.635" x2="-7.62" y2="-0.635" width="0.2032" layer="51"/>
 <pad name="1" x="-6.35" y="0" drill="1.2" diameter="2" rot="R90"/>
 <pad name="2" x="-3.81" y="0" drill="1.2" diameter="2" rot="R90"/>
-<text x="-1.9162" y="1.7288" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
+<text x="-1.9162" y="2.9988" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.04" y="-1.875" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="-6.75" y1="-0.25" x2="-5.95" y2="0.25" layer="51"/>
 <rectangle x1="-4.21" y1="-0.25" x2="-3.41" y2="0.25" layer="51"/>
@@ -7717,7 +7717,7 @@ WITH HIGH SURGE VOLTAGE &amp; HIGH BREAKDOWN VOLTAGE&lt;br&gt;
 <wire x1="-2.54" y1="0.635" x2="-2.54" y2="-0.635" width="0.2032" layer="51"/>
 <pad name="1" x="-1.27" y="0" drill="1.2" diameter="2" rot="R90"/>
 <pad name="2" x="1.27" y="0" drill="1.2" diameter="2" rot="R90"/>
-<text x="-1.9162" y="1.7288" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
+<text x="-3.1862" y="2.9988" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.04" y="-1.875" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="-1.67" y1="-0.25" x2="-0.87" y2="0.25" layer="51"/>
 <rectangle x1="0.87" y1="-0.25" x2="1.67" y2="0.25" layer="51"/>
@@ -8387,7 +8387,24 @@ Distributor: Digi Key</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ULN2003ANS" prefix="IC">
+<deviceset name="SJW-SHORTED" prefix="SJ" uservalue="yes">
+<description>SMD solder &lt;b&gt;JUMPER&lt;/b&gt;</description>
+<gates>
+<gate name="G$1" symbol="SJ-SHORTED" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SJW-SHORTED">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="ULN2003ANSR" prefix="IC">
 <description>&lt;b&gt;DRIVER ARRAY&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="2001A" x="0" y="0"/>
@@ -8411,23 +8428,6 @@ Distributor: Digi Key</description>
 <connect gate="A" pin="O5" pad="12"/>
 <connect gate="A" pin="O6" pad="11"/>
 <connect gate="A" pin="O7" pad="10"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="SJW-SHORTED" prefix="SJ" uservalue="yes">
-<description>SMD solder &lt;b&gt;JUMPER&lt;/b&gt;</description>
-<gates>
-<gate name="G$1" symbol="SJ-SHORTED" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="SJW-SHORTED">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -8461,8 +8461,6 @@ Distributor: Digi Key</description>
 <part name="K4" library="home" deviceset="EE2-*T?" device="NUH" technology="3"/>
 <part name="K5" library="home" deviceset="EE2-*T?" device="NUH" technology="3"/>
 <part name="K1" library="home" deviceset="EE2-*T?" device="NUH" technology="3"/>
-<part name="U1" library="home" deviceset="ULN2003ANS" device=""/>
-<part name="U2" library="home" deviceset="ULN2003ANS" device=""/>
 <part name="U3" library="microchip" library_urn="urn:adsk.eagle:library:294" deviceset="MCP23017" device="SS" package3d_urn="urn:adsk.eagle:package:20800/1" value="MCP23017SS"/>
 <part name="TB1" library="home" deviceset="KF120-6P" device=""/>
 <part name="TB2" library="home" deviceset="KF120-6P" device=""/>
@@ -8486,6 +8484,8 @@ Distributor: Digi Key</description>
 <part name="TB6" library="home" deviceset="KF120-2P" device=""/>
 <part name="RN1" library="home" deviceset="CTS746X101" device=""/>
 <part name="RESET" library="home" deviceset="B3U-10XX" device=""/>
+<part name="U1" library="home" deviceset="ULN2003ANSR" device=""/>
+<part name="U2" library="home" deviceset="ULN2003ANSR" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -8514,8 +8514,6 @@ Distributor: Digi Key</description>
 <instance part="K1" gate="R" x="48.26" y="139.7" rot="MR90"/>
 <instance part="K1" gate="1" x="33.02" y="149.86" rot="R90"/>
 <instance part="K1" gate="2" x="48.26" y="149.86" rot="R90"/>
-<instance part="U1" gate="A" x="33.02" y="111.887" rot="R90"/>
-<instance part="U2" gate="A" x="83.82" y="93.98" rot="R270"/>
 <instance part="U3" gate="G$1" x="134.62" y="96.52" rot="R90"/>
 <instance part="TB1" gate="G$1" x="36.83" y="171.45" rot="R90"/>
 <instance part="TB2" gate="G$1" x="67.31" y="171.45" rot="R90"/>
@@ -8552,39 +8550,44 @@ Distributor: Digi Key</description>
 <attribute name="NAME" x="166.37" y="48.26" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="176.53" y="46.355" size="1.778" layer="96" rot="R90"/>
 </instance>
+<instance part="U1" gate="A" x="33.02" y="111.76" rot="R90"/>
+<instance part="U2" gate="A" x="83.82" y="93.98" rot="R270"/>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="GND" class="0">
 <segment>
-<pinref part="U2" gate="A" pin="GND"/>
 <wire x1="73.66" y1="106.68" x2="73.66" y2="109.22" width="0.1524" layer="91"/>
-<pinref part="U2" gate="A" pin="I7"/>
 <wire x1="76.2" y1="106.68" x2="76.2" y2="109.22" width="0.1524" layer="91"/>
-<pinref part="U2" gate="A" pin="I5"/>
 <wire x1="76.2" y1="109.22" x2="78.74" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="81.28" y1="109.22" x2="81.28" y2="106.68" width="0.1524" layer="91"/>
 <junction x="76.2" y="109.22"/>
 <wire x1="76.2" y1="109.22" x2="73.66" y2="109.22" width="0.1524" layer="91"/>
 <junction x="73.66" y="109.22"/>
-<pinref part="U2" gate="A" pin="I6"/>
 <wire x1="78.74" y1="106.68" x2="78.74" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="109.22" x2="81.28" y2="109.22" width="0.1524" layer="91"/>
 <junction x="78.74" y="109.22"/>
 <label x="66.548" y="108.331" size="1.778" layer="95"/>
+<pinref part="U2" gate="A" pin="I5"/>
+<pinref part="U2" gate="A" pin="I6"/>
+<pinref part="U2" gate="A" pin="I7"/>
+<pinref part="U2" gate="A" pin="GND"/>
 </segment>
 <segment>
-<pinref part="U1" gate="A" pin="GND"/>
-<wire x1="43.18" y1="99.187" x2="43.18" y2="98.552" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="98.552" x2="45.72" y2="98.552" width="0.1524" layer="91"/>
-<label x="48.26" y="98.552" size="1.778" layer="95"/>
+<wire x1="43.18" y1="99.187" x2="43.18" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="99.06" x2="45.72" y2="99.06" width="0.1524" layer="91"/>
+<label x="48.26" y="99.06" size="1.778" layer="95"/>
+<wire x1="45.72" y1="99.06" x2="48.26" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="99.187" x2="40.64" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="99.06" x2="40.64" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="96.52" x2="45.72" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="96.52" x2="45.72" y2="99.06" width="0.1524" layer="91"/>
+<junction x="45.72" y="99.06"/>
 <pinref part="U1" gate="A" pin="I7"/>
-<wire x1="45.72" y1="98.552" x2="48.26" y2="98.552" width="0.1524" layer="91"/>
-<wire x1="40.64" y1="99.187" x2="40.64" y2="96.012" width="0.1524" layer="91"/>
-<wire x1="40.64" y1="96.012" x2="45.72" y2="96.012" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="96.012" x2="45.72" y2="98.552" width="0.1524" layer="91"/>
-<junction x="45.72" y="98.552"/>
+<junction x="40.64" y="99.06"/>
+<pinref part="U1" gate="A" pin="GND"/>
+<junction x="43.18" y="99.06"/>
 </segment>
 <segment>
 <pinref part="GND1" gate="1" pin="GND"/>
@@ -8637,11 +8640,6 @@ Distributor: Digi Key</description>
 </segment>
 </net>
 <net name="3V" class="0">
-<segment>
-<wire x1="43.18" y1="124.587" x2="48.26" y2="124.587" width="0.1524" layer="91"/>
-<pinref part="U1" gate="A" pin="CD+"/>
-<label x="49.53" y="123.952" size="1.778" layer="95"/>
-</segment>
 <segment>
 <wire x1="200.66" y1="66.04" x2="114.3" y2="66.04" width="0.1524" layer="91"/>
 <pinref part="U3" gate="G$1" pin="VDD"/>
@@ -8707,9 +8705,9 @@ Distributor: Digi Key</description>
 <label x="107.95" y="61.722" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U2" gate="A" pin="CD+"/>
 <wire x1="73.66" y1="81.28" x2="68.58" y2="81.28" width="0.1524" layer="91"/>
 <label x="66.04" y="81.28" size="1.778" layer="95"/>
+<pinref part="U2" gate="A" pin="CD+"/>
 </segment>
 <segment>
 <pinref part="U4" gate="A" pin="VS"/>
@@ -8732,6 +8730,11 @@ Distributor: Digi Key</description>
 <pinref part="RN1" gate="G$1" pin="5C"/>
 <wire x1="127" y1="182.88" x2="129.54" y2="182.88" width="0.1524" layer="91"/>
 <label x="129.54" y="182.88" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="A" pin="CD+"/>
+<wire x1="43.18" y1="124.46" x2="45.72" y2="124.46" width="0.1524" layer="91"/>
+<label x="45.72" y="124.46" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$18" class="0">
@@ -8810,9 +8813,11 @@ Distributor: Digi Key</description>
 <net name="N$24" class="2">
 <segment>
 <pinref part="K1" gate="S" pin="-"/>
-<pinref part="U1" gate="A" pin="O1"/>
-<wire x1="25.4" y1="139.7" x2="25.4" y2="124.587" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="139.7" x2="25.4" y2="127" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="127" x2="25.4" y2="124.587" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="139.7" x2="27.94" y2="139.7" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="O1"/>
+<wire x1="25.4" y1="124.587" x2="25.4" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$34" class="0">
@@ -8820,8 +8825,10 @@ Distributor: Digi Key</description>
 <pinref part="K1" gate="R" pin="-"/>
 <wire x1="43.18" y1="139.7" x2="43.18" y2="134.493" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="134.493" x2="27.94" y2="134.493" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="134.493" x2="27.94" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="124.587" x2="27.94" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="U1" gate="A" pin="O2"/>
-<wire x1="27.94" y1="134.493" x2="27.94" y2="124.587" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="124.587" x2="27.94" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$36" class="2">
@@ -8830,34 +8837,40 @@ Distributor: Digi Key</description>
 <wire x1="58.42" y1="139.7" x2="58.42" y2="132.08" width="0.1524" layer="91"/>
 <wire x1="58.42" y1="132.08" x2="30.48" y2="132.08" width="0.1524" layer="91"/>
 <pinref part="U1" gate="A" pin="O3"/>
-<wire x1="30.48" y1="132.08" x2="30.48" y2="124.587" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="132.08" x2="30.48" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$37" class="0">
 <segment>
 <pinref part="K2" gate="R" pin="-"/>
 <wire x1="73.66" y1="139.7" x2="73.66" y2="130.81" width="0.1524" layer="91"/>
-<pinref part="U1" gate="A" pin="O4"/>
 <wire x1="73.66" y1="130.81" x2="33.02" y2="130.81" width="0.1524" layer="91"/>
-<wire x1="33.02" y1="130.81" x2="33.02" y2="124.587" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="130.81" x2="33.02" y2="127" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="O4"/>
+<wire x1="33.02" y1="127" x2="33.02" y2="124.587" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="124.587" x2="33.02" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$38" class="0">
 <segment>
-<pinref part="U1" gate="A" pin="O5"/>
-<wire x1="35.56" y1="124.587" x2="35.56" y2="129.54" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="124.587" x2="35.56" y2="127" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="127" x2="35.56" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="129.54" x2="88.9" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="129.54" x2="88.9" y2="139.7" width="0.1524" layer="91"/>
 <pinref part="K3" gate="S" pin="-"/>
+<pinref part="U1" gate="A" pin="O5"/>
+<wire x1="35.56" y1="124.587" x2="35.56" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$39" class="2">
 <segment>
-<pinref part="U1" gate="A" pin="O6"/>
-<wire x1="38.1" y1="124.587" x2="38.1" y2="128.27" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="124.587" x2="38.1" y2="127" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="127" x2="38.1" y2="128.27" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="128.27" x2="104.14" y2="128.27" width="0.1524" layer="91"/>
 <pinref part="K3" gate="R" pin="-"/>
 <wire x1="104.14" y1="128.27" x2="104.14" y2="139.7" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="O6"/>
+<wire x1="38.1" y1="124.587" x2="38.1" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$50" class="1">
@@ -8921,8 +8934,8 @@ Distributor: Digi Key</description>
 <pinref part="K4" gate="S" pin="-"/>
 <wire x1="66.04" y1="73.66" x2="66.04" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="66.04" y1="73.66" x2="91.44" y2="73.66" width="0.1524" layer="91"/>
-<pinref part="U2" gate="A" pin="O1"/>
 <wire x1="91.44" y1="73.66" x2="91.44" y2="81.28" width="0.1524" layer="91"/>
+<pinref part="U2" gate="A" pin="O1"/>
 </segment>
 </net>
 <net name="N$59" class="2">
@@ -8930,28 +8943,30 @@ Distributor: Digi Key</description>
 <wire x1="50.8" y1="58.42" x2="50.8" y2="76.2" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="76.2" x2="88.9" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="K4" gate="R" pin="-"/>
-<pinref part="U2" gate="A" pin="O2"/>
 <wire x1="88.9" y1="81.28" x2="88.9" y2="76.2" width="0.1524" layer="91"/>
+<pinref part="U2" gate="A" pin="O2"/>
 </segment>
 </net>
 <net name="N$60" class="2">
 <segment>
 <pinref part="K5" gate="S" pin="-"/>
-<pinref part="U2" gate="A" pin="O3"/>
 <wire x1="99.06" y1="71.12" x2="99.06" y2="58.293" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="81.28" x2="86.36" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="71.12" x2="99.06" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="U2" gate="A" pin="O3"/>
 </segment>
 </net>
 <net name="N$62" class="0">
 <segment>
-<pinref part="U1" gate="A" pin="I1"/>
-<wire x1="25.4" y1="99.187" x2="25.4" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="99.187" x2="25.4" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="99.06" x2="25.4" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="86.36" x2="64.77" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="64.77" y1="86.36" x2="64.77" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="64.77" y1="111.76" x2="114.3" y2="111.76" width="0.1524" layer="91"/>
 <pinref part="U3" gate="G$1" pin="GPA0"/>
 <wire x1="114.3" y1="111.76" x2="114.3" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="I1"/>
+<junction x="25.4" y="99.06"/>
 </segment>
 </net>
 <net name="N$63" class="0">
@@ -8961,30 +8976,36 @@ Distributor: Digi Key</description>
 <wire x1="137.16" y1="109.22" x2="137.16" y2="113.03" width="0.1524" layer="91"/>
 <wire x1="137.16" y1="113.03" x2="63.5" y2="113.03" width="0.1524" layer="91"/>
 <wire x1="63.5" y1="87.63" x2="27.94" y2="87.63" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="87.63" x2="27.94" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="U1" gate="A" pin="I2"/>
-<wire x1="27.94" y1="87.63" x2="27.94" y2="99.187" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="99.06" x2="27.94" y2="99.187" width="0.1524" layer="91"/>
+<junction x="27.94" y="99.06"/>
 </segment>
 </net>
 <net name="N$64" class="0">
 <segment>
-<pinref part="U1" gate="A" pin="I3"/>
-<wire x1="30.48" y1="99.187" x2="30.48" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="99.187" x2="30.48" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="99.06" x2="30.48" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="88.9" x2="62.23" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="62.23" y1="88.9" x2="62.23" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="U3" gate="G$1" pin="GPA1"/>
 <wire x1="116.84" y1="109.22" x2="116.84" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="114.3" x2="62.23" y2="114.3" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="I3"/>
+<junction x="30.48" y="99.06"/>
 </segment>
 </net>
 <net name="N$65" class="0">
 <segment>
-<pinref part="U1" gate="A" pin="I5"/>
-<wire x1="35.56" y1="99.187" x2="35.56" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="99.187" x2="35.56" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="99.06" x2="35.56" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="91.44" x2="59.69" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="59.69" y1="91.44" x2="59.69" y2="116.84" width="0.1524" layer="91"/>
 <pinref part="U3" gate="G$1" pin="GPA2"/>
 <wire x1="59.69" y1="116.84" x2="119.38" y2="116.84" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="116.84" x2="119.38" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="I5"/>
+<junction x="35.56" y="99.06"/>
 </segment>
 </net>
 <net name="N$66" class="0">
@@ -8993,27 +9014,31 @@ Distributor: Digi Key</description>
 <pinref part="U3" gate="G$1" pin="GPB2"/>
 <wire x1="142.24" y1="109.22" x2="142.24" y2="118.11" width="0.1524" layer="91"/>
 <wire x1="142.24" y1="118.11" x2="58.42" y2="118.11" width="0.1524" layer="91"/>
-<pinref part="U1" gate="A" pin="I6"/>
-<wire x1="38.1" y1="99.187" x2="38.1" y2="92.71" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="99.187" x2="38.1" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="99.06" x2="38.1" y2="92.71" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="92.71" x2="58.42" y2="92.71" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="I6"/>
+<junction x="38.1" y="99.06"/>
 </segment>
 </net>
 <net name="N$67" class="0">
 <segment>
 <wire x1="60.96" y1="90.17" x2="60.96" y2="115.57" width="0.1524" layer="91"/>
-<pinref part="U1" gate="A" pin="I4"/>
-<wire x1="33.02" y1="99.187" x2="33.02" y2="90.17" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="99.187" x2="33.02" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="99.06" x2="33.02" y2="90.17" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="90.17" x2="60.96" y2="90.17" width="0.1524" layer="91"/>
 <wire x1="60.96" y1="115.57" x2="139.7" y2="115.57" width="0.1524" layer="91"/>
 <pinref part="U3" gate="G$1" pin="GPB1"/>
 <wire x1="139.7" y1="115.57" x2="139.7" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="I4"/>
+<junction x="33.02" y="99.06"/>
 </segment>
 </net>
 <net name="N$73" class="2">
 <segment>
-<pinref part="U2" gate="A" pin="O4"/>
 <pinref part="K5" gate="R" pin="-"/>
 <wire x1="83.82" y1="81.28" x2="83.82" y2="58.293" width="0.1524" layer="91"/>
+<pinref part="U2" gate="A" pin="O4"/>
 </segment>
 </net>
 <net name="INTB" class="0">
@@ -9510,20 +9535,20 @@ Distributor: Digi Key</description>
 </net>
 <net name="N$68" class="0">
 <segment>
-<pinref part="U2" gate="A" pin="I1"/>
 <wire x1="91.44" y1="106.68" x2="91.44" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="119.38" x2="121.92" y2="119.38" width="0.1524" layer="91"/>
 <pinref part="U3" gate="G$1" pin="GPA3"/>
 <wire x1="121.92" y1="119.38" x2="121.92" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="U2" gate="A" pin="I1"/>
 </segment>
 </net>
 <net name="N$69" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="GPB3"/>
 <wire x1="144.78" y1="109.22" x2="144.78" y2="120.65" width="0.1524" layer="91"/>
-<pinref part="U2" gate="A" pin="I2"/>
 <wire x1="144.78" y1="120.65" x2="88.9" y2="120.65" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="120.65" x2="88.9" y2="106.68" width="0.1524" layer="91"/>
+<pinref part="U2" gate="A" pin="I2"/>
 </segment>
 </net>
 <net name="N$70" class="0">
@@ -9531,17 +9556,17 @@ Distributor: Digi Key</description>
 <pinref part="U3" gate="G$1" pin="GPA4"/>
 <wire x1="124.46" y1="109.22" x2="124.46" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="124.46" y1="121.92" x2="86.36" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="U2" gate="A" pin="I3"/>
 <wire x1="86.36" y1="121.92" x2="86.36" y2="106.68" width="0.1524" layer="91"/>
+<pinref part="U2" gate="A" pin="I3"/>
 </segment>
 </net>
 <net name="N$71" class="0">
 <segment>
-<pinref part="U2" gate="A" pin="I4"/>
 <wire x1="83.82" y1="106.68" x2="83.82" y2="123.19" width="0.1524" layer="91"/>
 <pinref part="U3" gate="G$1" pin="GPB4"/>
 <wire x1="83.82" y1="123.19" x2="147.32" y2="123.19" width="0.1524" layer="91"/>
 <wire x1="147.32" y1="123.19" x2="147.32" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="U2" gate="A" pin="I4"/>
 </segment>
 </net>
 <net name="N$80" class="0">
