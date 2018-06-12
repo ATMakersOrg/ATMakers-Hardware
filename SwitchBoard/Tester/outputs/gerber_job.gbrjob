@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2018-05-28T22:08:04Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Bill Bill <bill@atmakers.org>*%
+%TJ.B_ID,RelayWingTester*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,70.790000*%
+%TJ.B_Size_Y,63.490000*%
+M02*
