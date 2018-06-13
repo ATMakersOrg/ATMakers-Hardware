@@ -38,7 +38,7 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
@@ -170,10 +170,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="100" y2="0" width="0" layer="20"/>
-<wire x1="100" y1="0" x2="100" y2="80" width="0" layer="20"/>
-<wire x1="100" y1="80" x2="0" y2="80" width="0" layer="20"/>
-<wire x1="0" y1="80" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="21.082" y1="10.922" x2="86.538" y2="10.922" width="0" layer="20"/>
+<wire x1="86.538" y1="10.922" x2="86.665" y2="41.011" width="0" layer="20"/>
+<wire x1="86.665" y1="41.011" x2="21.082" y2="41.011" width="0" layer="20"/>
+<wire x1="21.082" y1="41.011" x2="21.082" y2="10.922" width="0" layer="20"/>
 </plain>
 <libraries>
 <library name="adafruit" urn="urn:adsk.eagle:library:420">
@@ -1152,7 +1152,7 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="CONN-12263" x="53.975" y="24.13" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SF_ID" value="PRT-13054" x="53.975" y="24.13" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="JP1" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="2X20" value="" x="31.75" y="-13.97"/>
+<element name="JP1" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="2X20" value="" x="52.07" y="3.81"/>
 <element name="JP2" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="1X12" value="" x="54.864" y="15.748"/>
 <element name="JP3" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="1X15" value="" x="58.547" y="30.861"/>
 </elements>
