@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.6.3">
+<eagle version="9.0.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -7402,6 +7402,60 @@ Source: www.kingbright.com</description>
 <rectangle x1="11.049" y1="-2.921" x2="11.811" y2="-1.905" layer="21"/>
 <rectangle x1="13.589" y1="-2.921" x2="14.351" y2="-1.905" layer="21"/>
 </package>
+<package name="2X02" urn="urn:adsk.eagle:footprint:22337/1" library_version="3">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<wire x1="-2.54" y1="-1.905" x2="-1.905" y2="-2.54" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="-2.54" x2="0" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="0" y1="-1.905" x2="0.635" y2="-2.54" width="0.1524" layer="21"/>
+<wire x1="1.905" y1="-2.54" x2="2.54" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-2.54" y1="-1.905" x2="-2.54" y2="1.905" width="0.1524" layer="21"/>
+<wire x1="-2.54" y1="1.905" x2="-1.905" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="-1.905" y1="2.54" x2="-0.635" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="2.54" x2="0" y2="1.905" width="0.1524" layer="21"/>
+<wire x1="0" y1="1.905" x2="0.635" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="2.54" x2="1.905" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="1.905" y1="2.54" x2="2.54" y2="1.905" width="0.1524" layer="21"/>
+<wire x1="0" y1="1.905" x2="0" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="2.54" y1="1.905" x2="2.54" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="-2.54" x2="1.905" y2="-2.54" width="0.1524" layer="21"/>
+<wire x1="-1.905" y1="-2.54" x2="-0.635" y2="-2.54" width="0.1524" layer="21"/>
+<pad name="1" x="-1.27" y="-1.27" drill="1.016" shape="octagon"/>
+<pad name="2" x="-1.27" y="1.27" drill="1.016" shape="octagon"/>
+<pad name="3" x="1.27" y="-1.27" drill="1.016" shape="octagon"/>
+<pad name="4" x="1.27" y="1.27" drill="1.016" shape="octagon"/>
+<text x="-2.54" y="3.175" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-2.54" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-1.524" y1="-1.524" x2="-1.016" y2="-1.016" layer="51"/>
+<rectangle x1="-1.524" y1="1.016" x2="-1.016" y2="1.524" layer="51"/>
+<rectangle x1="1.016" y1="1.016" x2="1.524" y2="1.524" layer="51"/>
+<rectangle x1="1.016" y1="-1.524" x2="1.524" y2="-1.016" layer="51"/>
+</package>
+<package name="2X02/90" urn="urn:adsk.eagle:footprint:22338/1" library_version="3">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<wire x1="-2.54" y1="-1.905" x2="0" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="0" y1="-1.905" x2="0" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="0" y1="0.635" x2="-2.54" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-2.54" y1="0.635" x2="-2.54" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="6.985" x2="-1.27" y2="1.27" width="0.762" layer="21"/>
+<wire x1="0" y1="-1.905" x2="2.54" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="2.54" y1="-1.905" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="2.54" y1="0.635" x2="0" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="6.985" x2="1.27" y2="1.27" width="0.762" layer="21"/>
+<pad name="2" x="-1.27" y="-3.81" drill="1.016" shape="octagon"/>
+<pad name="4" x="1.27" y="-3.81" drill="1.016" shape="octagon"/>
+<pad name="1" x="-1.27" y="-6.35" drill="1.016" shape="octagon"/>
+<pad name="3" x="1.27" y="-6.35" drill="1.016" shape="octagon"/>
+<text x="-3.175" y="-3.81" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+<text x="4.445" y="-3.81" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-1.651" y1="0.635" x2="-0.889" y2="1.143" layer="21"/>
+<rectangle x1="0.889" y1="0.635" x2="1.651" y2="1.143" layer="21"/>
+<rectangle x1="-1.651" y1="-2.921" x2="-0.889" y2="-1.905" layer="21"/>
+<rectangle x1="0.889" y1="-2.921" x2="1.651" y2="-1.905" layer="21"/>
+<rectangle x1="-1.651" y1="-5.461" x2="-0.889" y2="-4.699" layer="21"/>
+<rectangle x1="-1.651" y1="-4.699" x2="-0.889" y2="-2.921" layer="51"/>
+<rectangle x1="0.889" y1="-4.699" x2="1.651" y2="-2.921" layer="51"/>
+<rectangle x1="0.889" y1="-5.461" x2="1.651" y2="-4.699" layer="21"/>
+</package>
 </packages>
 <packages3d>
 <package3d name="2X04" urn="urn:adsk.eagle:package:22461/2" type="model" library_version="3">
@@ -7421,6 +7475,18 @@ Source: www.kingbright.com</description>
 </package3d>
 <package3d name="1X12/90" urn="urn:adsk.eagle:package:22489/2" type="model" library_version="3">
 <description>PIN HEADER</description>
+</package3d>
+<package3d name="2X02" urn="urn:adsk.eagle:package:22455/2" type="model" library_version="3">
+<description>PIN HEADER</description>
+<packageinstances>
+<packageinstance name="2X02"/>
+</packageinstances>
+</package3d>
+<package3d name="2X02/90" urn="urn:adsk.eagle:package:22456/2" type="model" library_version="3">
+<description>PIN HEADER</description>
+<packageinstances>
+<packageinstance name="2X02/90"/>
+</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -7483,6 +7549,18 @@ Source: www.kingbright.com</description>
 <pin name="10" x="-2.54" y="-10.16" visible="pad" length="short" direction="pas" function="dot"/>
 <pin name="11" x="-2.54" y="-12.7" visible="pad" length="short" direction="pas" function="dot"/>
 <pin name="12" x="-2.54" y="-15.24" visible="pad" length="short" direction="pas" function="dot"/>
+</symbol>
+<symbol name="PINH2X2" urn="urn:adsk.eagle:symbol:22336/1" library_version="3">
+<wire x1="-8.89" y1="-2.54" x2="6.35" y2="-2.54" width="0.4064" layer="94"/>
+<wire x1="6.35" y1="-2.54" x2="6.35" y2="5.08" width="0.4064" layer="94"/>
+<wire x1="6.35" y1="5.08" x2="-8.89" y2="5.08" width="0.4064" layer="94"/>
+<wire x1="-8.89" y1="5.08" x2="-8.89" y2="-2.54" width="0.4064" layer="94"/>
+<text x="-8.89" y="5.715" size="1.778" layer="95">&gt;NAME</text>
+<text x="-8.89" y="-5.08" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="1" x="-5.08" y="2.54" visible="pad" length="short" direction="pas" function="dot"/>
+<pin name="2" x="2.54" y="2.54" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
+<pin name="3" x="-5.08" y="0" visible="pad" length="short" direction="pas" function="dot"/>
+<pin name="4" x="2.54" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -7635,6 +7713,42 @@ Source: www.kingbright.com</description>
 </connects>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:22489/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="PINHD-2X2" urn="urn:adsk.eagle:component:22526/3" prefix="JP" uservalue="yes" library_version="3">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<gates>
+<gate name="A" symbol="PINH2X2" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="2X02">
+<connects>
+<connect gate="A" pin="1" pad="1"/>
+<connect gate="A" pin="2" pad="2"/>
+<connect gate="A" pin="3" pad="3"/>
+<connect gate="A" pin="4" pad="4"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22455/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="/90" package="2X02/90">
+<connects>
+<connect gate="A" pin="1" pad="1"/>
+<connect gate="A" pin="2" pad="2"/>
+<connect gate="A" pin="3" pad="3"/>
+<connect gate="A" pin="4" pad="4"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:22456/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -8486,6 +8600,7 @@ Distributor: Digi Key</description>
 <part name="TB6" library="home" deviceset="KF120-2P" device=""/>
 <part name="RN1" library="home" deviceset="CTS746X101" device=""/>
 <part name="RESET" library="home" deviceset="B3U-10XX" device=""/>
+<part name="I2CHDR" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X2" device="" package3d_urn="urn:adsk.eagle:package:22455/2" value=" "/>
 </parts>
 <sheets>
 <sheet>
@@ -8552,6 +8667,7 @@ Distributor: Digi Key</description>
 <attribute name="NAME" x="166.37" y="48.26" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="176.53" y="46.355" size="1.778" layer="96" rot="R90"/>
 </instance>
+<instance part="I2CHDR" gate="A" x="210.82" y="40.64"/>
 </instances>
 <busses>
 </busses>
@@ -8634,6 +8750,12 @@ Distributor: Digi Key</description>
 <pinref part="MS1" gate="G$1" pin="GND"/>
 <pinref part="JP2" gate="A" pin="4"/>
 <wire x1="205.74" y1="73.66" x2="205.74" y2="58.42" width="0.1524" layer="91"/>
+<pinref part="I2CHDR" gate="A" pin="1"/>
+<wire x1="205.74" y1="43.18" x2="200.66" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="43.18" x2="200.66" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="50.8" x2="205.74" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="50.8" x2="205.74" y2="58.42" width="0.1524" layer="91"/>
+<junction x="205.74" y="58.42"/>
 </segment>
 </net>
 <net name="3V" class="0">
@@ -8655,6 +8777,12 @@ Distributor: Digi Key</description>
 <wire x1="200.66" y1="73.66" x2="200.66" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="200.66" y1="66.04" x2="200.66" y2="58.42" width="0.1524" layer="91"/>
 <junction x="200.66" y="66.04"/>
+<wire x1="200.66" y1="58.42" x2="200.66" y2="53.34" width="0.1524" layer="91"/>
+<junction x="200.66" y="58.42"/>
+<wire x1="200.66" y1="53.34" x2="198.12" y2="53.34" width="0.1524" layer="91"/>
+<pinref part="I2CHDR" gate="A" pin="3"/>
+<wire x1="198.12" y1="53.34" x2="198.12" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="198.12" y1="40.64" x2="205.74" y2="40.64" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="K1" gate="S" pin="+"/>
@@ -8770,6 +8898,11 @@ Distributor: Digi Key</description>
 <wire x1="116.84" y1="165.1" x2="116.84" y2="182.88" width="0.1524" layer="91"/>
 <pinref part="RN1" gate="G$1" pin="1"/>
 <junction x="165.1" y="165.1"/>
+<pinref part="I2CHDR" gate="A" pin="2"/>
+<wire x1="213.36" y1="43.18" x2="243.84" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="243.84" y1="43.18" x2="243.84" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="243.84" y1="132.08" x2="233.68" y2="132.08" width="0.1524" layer="91"/>
+<junction x="233.68" y="132.08"/>
 </segment>
 </net>
 <net name="SDA" class="0">
@@ -8795,6 +8928,11 @@ Distributor: Digi Key</description>
 <wire x1="119.38" y1="167.64" x2="119.38" y2="182.88" width="0.1524" layer="91"/>
 <pinref part="RN1" gate="G$1" pin="2"/>
 <junction x="162.56" y="134.62"/>
+<pinref part="I2CHDR" gate="A" pin="4"/>
+<wire x1="213.36" y1="40.64" x2="246.38" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="40.64" x2="246.38" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="134.62" x2="236.22" y2="134.62" width="0.1524" layer="91"/>
+<junction x="236.22" y="134.62"/>
 </segment>
 </net>
 <net name="N$16" class="1">
@@ -9568,11 +9706,7 @@ Distributor: Digi Key</description>
 <approved hash="104,1,154.94,83.82,U3,VSS,GND,,,"/>
 <approved hash="104,1,180.34,177.8,U4,VS,3V,,,"/>
 <approved hash="113,1,139.596,107.846,U$1,,,,,"/>
-<approved hash="113,1,158.504,182.88,A1,,,,,"/>
-<approved hash="113,1,150.884,182.88,A0,,,,,"/>
 <approved hash="113,1,155.262,52.07,PWR,,,,,"/>
-<approved hash="113,1,215.769,58.6571,JP2,,,,,"/>
-<approved hash="113,1,223.651,124.223,JP3,,,,,"/>
 <approved hash="115,1,152.4,173.99,A0,,,,,"/>
 <approved hash="115,1,160.02,175.26,A1,,,,,"/>
 <approved hash="115,1,205.74,66.04,GND,,,,,"/>
