@@ -1,0 +1,2609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64.159782mm"
+   height="21.43355mm"
+   id="svg4136"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Text.svg">
+  <metadata
+     id="metadata4921">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     id="namedview4919"
+     showgrid="false"
+     inkscape:zoom="1.5373607"
+     inkscape:cx="131.99945"
+     inkscape:cy="79.451468"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4917"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="mm" />
+  <desc
+     id="desc4138">D:\Documents\ATMakers_Hardware\ShieldWing\ShieldWing.dxf - scale = 2.325659, origin = (-15.240000, -5.842000), auto = True</desc>
+  <defs
+     id="defs4140">
+    <marker
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path4143"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path4146" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path4148" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path4150" />
+    </pattern>
+    <symbol
+       id="RECT" />
+    <symbol
+       id="PIE" />
+    <symbol
+       id="OCTAGONP" />
+    <symbol
+       id="SQUAREP" />
+    <symbol
+       id="ROUNDP" />
+    <symbol
+       id="ANNULUSP" />
+    <symbol
+       id="THERMALP" />
+    <symbol
+       id="OCTAGONV" />
+    <symbol
+       id="SQUAREV" />
+    <symbol
+       id="ROUNDV" />
+    <symbol
+       id="ANNULUSV" />
+    <symbol
+       id="THERMALV" />
+    <symbol
+       id="LONGP100" />
+  </defs>
+  <g
+     inkscape:label="17"
+     inkscape:groupmode="layer"
+     id="g4165"
+     transform="translate(-187.69805,-757.00375)">
+    <use
+       y="-251.17114"
+       x="460.48041"
+       xlink:href="#ROUNDP"
+       id="use4167"
+       width="100%"
+       height="100%" />
+    <use
+       y="-251.17114"
+       x="460.48041"
+       xlink:href="#ROUNDP"
+       id="use4169"
+       width="100%"
+       height="100%" />
+    <use
+       y="-251.17114"
+       x="481.41135"
+       xlink:href="#ROUNDP"
+       id="use4171"
+       width="100%"
+       height="100%" />
+    <use
+       y="-251.17114"
+       x="481.41135"
+       xlink:href="#ROUNDP"
+       id="use4173"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="460.48041"
+       xlink:href="#ROUNDP"
+       id="use4175"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="460.48041"
+       xlink:href="#ROUNDP"
+       id="use4177"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="481.41135"
+       xlink:href="#ROUNDP"
+       id="use4179"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="481.41135"
+       xlink:href="#ROUNDP"
+       id="use4181"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="460.48041"
+       xlink:href="#ROUNDP"
+       id="use4183"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="460.48041"
+       xlink:href="#ROUNDP"
+       id="use4185"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="481.41135"
+       xlink:href="#ROUNDP"
+       id="use4187"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="481.41135"
+       xlink:href="#ROUNDP"
+       id="use4189"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="376.75671"
+       xlink:href="#OCTAGONP"
+       id="use4191"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="376.75671"
+       xlink:href="#OCTAGONP"
+       id="use4193"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="355.82578"
+       xlink:href="#OCTAGONP"
+       id="use4195"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="355.82578"
+       xlink:href="#OCTAGONP"
+       id="use4197"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="334.89484"
+       xlink:href="#OCTAGONP"
+       id="use4199"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="334.89484"
+       xlink:href="#OCTAGONP"
+       id="use4201"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="313.96393"
+       xlink:href="#OCTAGONP"
+       id="use4203"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="313.96393"
+       xlink:href="#OCTAGONP"
+       id="use4205"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="293.03299"
+       xlink:href="#OCTAGONP"
+       id="use4207"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="293.03299"
+       xlink:href="#OCTAGONP"
+       id="use4209"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="272.10205"
+       xlink:href="#OCTAGONP"
+       id="use4211"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="272.10205"
+       xlink:href="#OCTAGONP"
+       id="use4213"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="251.17114"
+       xlink:href="#OCTAGONP"
+       id="use4215"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="251.17114"
+       xlink:href="#OCTAGONP"
+       id="use4217"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="230.2402"
+       xlink:href="#OCTAGONP"
+       id="use4219"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="230.2402"
+       xlink:href="#OCTAGONP"
+       id="use4221"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="376.75671"
+       xlink:href="#OCTAGONP"
+       id="use4223"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="376.75671"
+       xlink:href="#OCTAGONP"
+       id="use4225"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="397.68762"
+       xlink:href="#OCTAGONP"
+       id="use4227"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="397.68762"
+       xlink:href="#OCTAGONP"
+       id="use4229"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="418.61856"
+       xlink:href="#OCTAGONP"
+       id="use4231"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="418.61856"
+       xlink:href="#OCTAGONP"
+       id="use4233"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="439.5495"
+       xlink:href="#OCTAGONP"
+       id="use4235"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="439.5495"
+       xlink:href="#OCTAGONP"
+       id="use4237"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="460.48041"
+       xlink:href="#OCTAGONP"
+       id="use4239"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="460.48041"
+       xlink:href="#OCTAGONP"
+       id="use4241"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="481.41135"
+       xlink:href="#OCTAGONP"
+       id="use4243"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="481.41135"
+       xlink:href="#OCTAGONP"
+       id="use4245"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="502.34229"
+       xlink:href="#OCTAGONP"
+       id="use4247"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="502.34229"
+       xlink:href="#OCTAGONP"
+       id="use4249"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="523.27319"
+       xlink:href="#OCTAGONP"
+       id="use4251"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="523.27319"
+       xlink:href="#OCTAGONP"
+       id="use4253"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="523.27319"
+       xlink:href="#OCTAGONP"
+       id="use4255"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="523.27319"
+       xlink:href="#OCTAGONP"
+       id="use4257"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="502.34229"
+       xlink:href="#OCTAGONP"
+       id="use4259"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="502.34229"
+       xlink:href="#OCTAGONP"
+       id="use4261"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="481.41135"
+       xlink:href="#OCTAGONP"
+       id="use4263"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="481.41135"
+       xlink:href="#OCTAGONP"
+       id="use4265"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="460.48041"
+       xlink:href="#OCTAGONP"
+       id="use4267"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="460.48041"
+       xlink:href="#OCTAGONP"
+       id="use4269"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="439.5495"
+       xlink:href="#OCTAGONP"
+       id="use4271"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="439.5495"
+       xlink:href="#OCTAGONP"
+       id="use4273"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="418.61856"
+       xlink:href="#OCTAGONP"
+       id="use4275"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="418.61856"
+       xlink:href="#OCTAGONP"
+       id="use4277"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="146.51649"
+       xlink:href="#LONGP100"
+       id="use4279"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="146.51649"
+       xlink:href="#LONGP100"
+       id="use4281"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="167.44742"
+       xlink:href="#LONGP100"
+       id="use4283"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="167.44742"
+       xlink:href="#LONGP100"
+       id="use4285"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="188.37836"
+       xlink:href="#LONGP100"
+       id="use4287"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="188.37836"
+       xlink:href="#LONGP100"
+       id="use4289"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="209.30928"
+       xlink:href="#LONGP100"
+       id="use4291"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="209.30928"
+       xlink:href="#LONGP100"
+       id="use4293"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="230.2402"
+       xlink:href="#LONGP100"
+       id="use4295"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="230.2402"
+       xlink:href="#LONGP100"
+       id="use4297"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="251.17114"
+       xlink:href="#LONGP100"
+       id="use4299"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="251.17114"
+       xlink:href="#LONGP100"
+       id="use4301"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="272.10205"
+       xlink:href="#LONGP100"
+       id="use4303"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="272.10205"
+       xlink:href="#LONGP100"
+       id="use4305"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="293.03299"
+       xlink:href="#LONGP100"
+       id="use4307"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="293.03299"
+       xlink:href="#LONGP100"
+       id="use4309"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="313.96393"
+       xlink:href="#LONGP100"
+       id="use4311"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="313.96393"
+       xlink:href="#LONGP100"
+       id="use4313"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="334.89484"
+       xlink:href="#LONGP100"
+       id="use4315"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="334.89484"
+       xlink:href="#LONGP100"
+       id="use4317"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="355.82578"
+       xlink:href="#LONGP100"
+       id="use4319"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="355.82578"
+       xlink:href="#LONGP100"
+       id="use4321"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="376.75671"
+       xlink:href="#LONGP100"
+       id="use4323"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="376.75671"
+       xlink:href="#LONGP100"
+       id="use4325"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="62.792786"
+       xlink:href="#LONGP100"
+       id="use4327"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="62.792786"
+       xlink:href="#LONGP100"
+       id="use4329"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="83.723709"
+       xlink:href="#LONGP100"
+       id="use4331"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="83.723709"
+       xlink:href="#LONGP100"
+       id="use4333"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="104.65464"
+       xlink:href="#LONGP100"
+       id="use4335"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="104.65464"
+       xlink:href="#LONGP100"
+       id="use4337"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="125.58557"
+       xlink:href="#LONGP100"
+       id="use4339"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="125.58557"
+       xlink:href="#LONGP100"
+       id="use4341"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="146.51649"
+       xlink:href="#LONGP100"
+       id="use4343"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="146.51649"
+       xlink:href="#LONGP100"
+       id="use4345"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="167.44742"
+       xlink:href="#LONGP100"
+       id="use4347"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="167.44742"
+       xlink:href="#LONGP100"
+       id="use4349"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="188.37836"
+       xlink:href="#LONGP100"
+       id="use4351"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="188.37836"
+       xlink:href="#LONGP100"
+       id="use4353"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="209.30928"
+       xlink:href="#LONGP100"
+       id="use4355"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="209.30928"
+       xlink:href="#LONGP100"
+       id="use4357"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="230.2402"
+       xlink:href="#LONGP100"
+       id="use4359"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="230.2402"
+       xlink:href="#LONGP100"
+       id="use4361"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="251.17114"
+       xlink:href="#LONGP100"
+       id="use4363"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="251.17114"
+       xlink:href="#LONGP100"
+       id="use4365"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="272.10205"
+       xlink:href="#LONGP100"
+       id="use4367"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="272.10205"
+       xlink:href="#LONGP100"
+       id="use4369"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="293.03299"
+       xlink:href="#LONGP100"
+       id="use4371"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="293.03299"
+       xlink:href="#LONGP100"
+       id="use4373"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="313.96393"
+       xlink:href="#LONGP100"
+       id="use4375"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="313.96393"
+       xlink:href="#LONGP100"
+       id="use4377"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="334.89484"
+       xlink:href="#LONGP100"
+       id="use4379"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="334.89484"
+       xlink:href="#LONGP100"
+       id="use4381"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="355.82578"
+       xlink:href="#LONGP100"
+       id="use4383"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="355.82578"
+       xlink:href="#LONGP100"
+       id="use4385"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="376.75671"
+       xlink:href="#LONGP100"
+       id="use4387"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="376.75671"
+       xlink:href="#LONGP100"
+       id="use4389"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="293.03299"
+       xlink:href="#OCTAGONP"
+       id="use4391"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="293.03299"
+       xlink:href="#OCTAGONP"
+       id="use4393"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="313.96393"
+       xlink:href="#OCTAGONP"
+       id="use4395"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="313.96393"
+       xlink:href="#OCTAGONP"
+       id="use4397"
+       width="100%"
+       height="100%" />
+    <use
+       y="-251.17114"
+       x="545.25067"
+       xlink:href="#OCTAGONP"
+       id="use4399"
+       width="100%"
+       height="100%" />
+    <use
+       y="-251.17114"
+       x="545.25067"
+       xlink:href="#OCTAGONP"
+       id="use4401"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="418.61856"
+       xlink:href="#OCTAGONP"
+       id="use4403"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="418.61856"
+       xlink:href="#OCTAGONP"
+       id="use4405"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="439.5495"
+       xlink:href="#OCTAGONP"
+       id="use4407"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="439.5495"
+       xlink:href="#OCTAGONP"
+       id="use4409"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="460.48041"
+       xlink:href="#OCTAGONP"
+       id="use4411"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="460.48041"
+       xlink:href="#OCTAGONP"
+       id="use4413"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="481.41135"
+       xlink:href="#OCTAGONP"
+       id="use4415"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="481.41135"
+       xlink:href="#OCTAGONP"
+       id="use4417"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="502.34229"
+       xlink:href="#OCTAGONP"
+       id="use4419"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="502.34229"
+       xlink:href="#OCTAGONP"
+       id="use4421"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="523.27319"
+       xlink:href="#OCTAGONP"
+       id="use4423"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="523.27319"
+       xlink:href="#OCTAGONP"
+       id="use4425"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="196.75072"
+       xlink:href="#OCTAGONP"
+       id="use4427"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="196.75072"
+       xlink:href="#OCTAGONP"
+       id="use4429"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="523.27319"
+       xlink:href="#OCTAGONP"
+       id="use4431"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="523.27319"
+       xlink:href="#OCTAGONP"
+       id="use4433"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="502.34229"
+       xlink:href="#OCTAGONP"
+       id="use4435"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="502.34229"
+       xlink:href="#OCTAGONP"
+       id="use4437"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="481.41135"
+       xlink:href="#OCTAGONP"
+       id="use4439"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="481.41135"
+       xlink:href="#OCTAGONP"
+       id="use4441"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="460.48041"
+       xlink:href="#OCTAGONP"
+       id="use4443"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="460.48041"
+       xlink:href="#OCTAGONP"
+       id="use4445"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="439.5495"
+       xlink:href="#OCTAGONP"
+       id="use4447"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="439.5495"
+       xlink:href="#OCTAGONP"
+       id="use4449"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="418.61856"
+       xlink:href="#OCTAGONP"
+       id="use4451"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="418.61856"
+       xlink:href="#OCTAGONP"
+       id="use4453"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="397.68762"
+       xlink:href="#OCTAGONP"
+       id="use4455"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="397.68762"
+       xlink:href="#OCTAGONP"
+       id="use4457"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="376.75671"
+       xlink:href="#OCTAGONP"
+       id="use4459"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="376.75671"
+       xlink:href="#OCTAGONP"
+       id="use4461"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="343.26721"
+       xlink:href="#OCTAGONP"
+       id="use4463"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="343.26721"
+       xlink:href="#OCTAGONP"
+       id="use4465"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="322.3363"
+       xlink:href="#OCTAGONP"
+       id="use4467"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="322.3363"
+       xlink:href="#OCTAGONP"
+       id="use4469"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="301.40536"
+       xlink:href="#OCTAGONP"
+       id="use4471"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="301.40536"
+       xlink:href="#OCTAGONP"
+       id="use4473"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="280.47443"
+       xlink:href="#OCTAGONP"
+       id="use4475"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="280.47443"
+       xlink:href="#OCTAGONP"
+       id="use4477"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="259.54352"
+       xlink:href="#OCTAGONP"
+       id="use4479"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="259.54352"
+       xlink:href="#OCTAGONP"
+       id="use4481"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="238.61258"
+       xlink:href="#OCTAGONP"
+       id="use4483"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="238.61258"
+       xlink:href="#OCTAGONP"
+       id="use4485"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="217.68166"
+       xlink:href="#OCTAGONP"
+       id="use4487"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="217.68166"
+       xlink:href="#OCTAGONP"
+       id="use4489"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="355.82578"
+       xlink:href="#OCTAGONP"
+       id="use4491"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="355.82578"
+       xlink:href="#OCTAGONP"
+       id="use4493"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="334.89484"
+       xlink:href="#OCTAGONP"
+       id="use4495"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="334.89484"
+       xlink:href="#OCTAGONP"
+       id="use4497"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="545.25067"
+       xlink:href="#OCTAGONP"
+       id="use4499"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="545.25067"
+       xlink:href="#OCTAGONP"
+       id="use4501"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="251.17114"
+       xlink:href="#OCTAGONP"
+       id="use4503"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="251.17114"
+       xlink:href="#OCTAGONP"
+       id="use4505"
+       width="100%"
+       height="100%" />
+    <use
+       y="-251.17114"
+       x="524.31976"
+       xlink:href="#SQUAREP"
+       id="use4507"
+       width="100%"
+       height="100%" />
+    <use
+       y="-251.17114"
+       x="524.31976"
+       xlink:href="#SQUAREP"
+       id="use4509"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="545.25067"
+       xlink:href="#OCTAGONP"
+       id="use4511"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="545.25067"
+       xlink:href="#OCTAGONP"
+       id="use4513"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="230.2402"
+       xlink:href="#OCTAGONP"
+       id="use4515"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="230.2402"
+       xlink:href="#OCTAGONP"
+       id="use4517"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="272.10205"
+       xlink:href="#OCTAGONP"
+       id="use4519"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="272.10205"
+       xlink:href="#OCTAGONP"
+       id="use4521"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="524.31976"
+       xlink:href="#OCTAGONP"
+       id="use4523"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="524.31976"
+       xlink:href="#OCTAGONP"
+       id="use4525"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="524.31976"
+       xlink:href="#OCTAGONP"
+       id="use4527"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="524.31976"
+       xlink:href="#OCTAGONP"
+       id="use4529"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="154.88887"
+       xlink:href="#OCTAGONP"
+       id="use4531"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="154.88887"
+       xlink:href="#OCTAGONP"
+       id="use4533"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="175.81979"
+       xlink:href="#OCTAGONP"
+       id="use4535"
+       width="100%"
+       height="100%" />
+    <use
+       y="-418.61856"
+       x="175.81979"
+       xlink:href="#OCTAGONP"
+       id="use4537"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="376.75671"
+       xlink:href="#OCTAGONP"
+       id="use4539"
+       width="100%"
+       height="100%" />
+    <use
+       y="-20.930927"
+       x="376.75671"
+       xlink:href="#OCTAGONP"
+       id="use4541"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="62.792786"
+       xlink:href="#ROUNDP"
+       id="use4543"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="62.792786"
+       xlink:href="#ROUNDP"
+       id="use4545"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="83.723709"
+       xlink:href="#ROUNDP"
+       id="use4547"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="83.723709"
+       xlink:href="#ROUNDP"
+       id="use4549"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="104.65464"
+       xlink:href="#ROUNDP"
+       id="use4551"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="104.65464"
+       xlink:href="#ROUNDP"
+       id="use4553"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="125.58557"
+       xlink:href="#ROUNDP"
+       id="use4555"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="125.58557"
+       xlink:href="#ROUNDP"
+       id="use4557"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="146.51649"
+       xlink:href="#ROUNDP"
+       id="use4559"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="146.51649"
+       xlink:href="#ROUNDP"
+       id="use4561"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="167.44742"
+       xlink:href="#ROUNDP"
+       id="use4563"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="167.44742"
+       xlink:href="#ROUNDP"
+       id="use4565"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="188.37836"
+       xlink:href="#ROUNDP"
+       id="use4567"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="188.37836"
+       xlink:href="#ROUNDP"
+       id="use4569"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="209.30928"
+       xlink:href="#ROUNDP"
+       id="use4571"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="209.30928"
+       xlink:href="#ROUNDP"
+       id="use4573"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="230.2402"
+       xlink:href="#ROUNDP"
+       id="use4575"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="230.2402"
+       xlink:href="#ROUNDP"
+       id="use4577"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="251.17114"
+       xlink:href="#ROUNDP"
+       id="use4579"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="251.17114"
+       xlink:href="#ROUNDP"
+       id="use4581"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="272.10205"
+       xlink:href="#ROUNDP"
+       id="use4583"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="272.10205"
+       xlink:href="#ROUNDP"
+       id="use4585"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="293.03299"
+       xlink:href="#ROUNDP"
+       id="use4587"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="293.03299"
+       xlink:href="#ROUNDP"
+       id="use4589"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="313.96393"
+       xlink:href="#ROUNDP"
+       id="use4591"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="313.96393"
+       xlink:href="#ROUNDP"
+       id="use4593"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="334.89484"
+       xlink:href="#ROUNDP"
+       id="use4595"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="334.89484"
+       xlink:href="#ROUNDP"
+       id="use4597"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="355.82578"
+       xlink:href="#ROUNDP"
+       id="use4599"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="355.82578"
+       xlink:href="#ROUNDP"
+       id="use4601"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="376.75671"
+       xlink:href="#ROUNDP"
+       id="use4603"
+       width="100%"
+       height="100%" />
+    <use
+       y="-125.58557"
+       x="376.75671"
+       xlink:href="#ROUNDP"
+       id="use4605"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="376.75671"
+       xlink:href="#ROUNDP"
+       id="use4607"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="376.75671"
+       xlink:href="#ROUNDP"
+       id="use4609"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="355.82578"
+       xlink:href="#ROUNDP"
+       id="use4611"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="355.82578"
+       xlink:href="#ROUNDP"
+       id="use4613"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="334.89484"
+       xlink:href="#ROUNDP"
+       id="use4615"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="334.89484"
+       xlink:href="#ROUNDP"
+       id="use4617"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="313.96393"
+       xlink:href="#ROUNDP"
+       id="use4619"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="313.96393"
+       xlink:href="#ROUNDP"
+       id="use4621"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="293.03299"
+       xlink:href="#ROUNDP"
+       id="use4623"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="293.03299"
+       xlink:href="#ROUNDP"
+       id="use4625"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="272.10205"
+       xlink:href="#ROUNDP"
+       id="use4627"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="272.10205"
+       xlink:href="#ROUNDP"
+       id="use4629"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="251.17114"
+       xlink:href="#ROUNDP"
+       id="use4631"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="251.17114"
+       xlink:href="#ROUNDP"
+       id="use4633"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="230.2402"
+       xlink:href="#ROUNDP"
+       id="use4635"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="230.2402"
+       xlink:href="#ROUNDP"
+       id="use4637"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="209.30928"
+       xlink:href="#ROUNDP"
+       id="use4639"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="209.30928"
+       xlink:href="#ROUNDP"
+       id="use4641"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="188.37836"
+       xlink:href="#ROUNDP"
+       id="use4643"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="188.37836"
+       xlink:href="#ROUNDP"
+       id="use4645"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="167.44742"
+       xlink:href="#ROUNDP"
+       id="use4647"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="167.44742"
+       xlink:href="#ROUNDP"
+       id="use4649"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="146.51649"
+       xlink:href="#ROUNDP"
+       id="use4651"
+       width="100%"
+       height="100%" />
+    <use
+       y="-293.03299"
+       x="146.51649"
+       xlink:href="#ROUNDP"
+       id="use4653"
+       width="100%"
+       height="100%" />
+    <use
+       y="-282.56754"
+       x="31.396393"
+       xlink:href="#ROUNDP"
+       id="use4655"
+       width="100%"
+       height="100%" />
+    <use
+       y="-282.56754"
+       x="31.396393"
+       xlink:href="#ROUNDP"
+       id="use4657"
+       width="100%"
+       height="100%" />
+    <use
+       y="-136.05103"
+       x="31.396393"
+       xlink:href="#ROUNDP"
+       id="use4659"
+       width="100%"
+       height="100%" />
+    <use
+       y="-136.05103"
+       x="31.396393"
+       xlink:href="#ROUNDP"
+       id="use4661"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="154.88887"
+       xlink:href="#OCTAGONP"
+       id="use4663"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="154.88887"
+       xlink:href="#OCTAGONP"
+       id="use4665"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="175.81979"
+       xlink:href="#OCTAGONP"
+       id="use4667"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="175.81979"
+       xlink:href="#OCTAGONP"
+       id="use4669"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="196.75072"
+       xlink:href="#OCTAGONP"
+       id="use4671"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="196.75072"
+       xlink:href="#OCTAGONP"
+       id="use4673"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="217.68166"
+       xlink:href="#OCTAGONP"
+       id="use4675"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="217.68166"
+       xlink:href="#OCTAGONP"
+       id="use4677"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="238.61258"
+       xlink:href="#OCTAGONP"
+       id="use4679"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="238.61258"
+       xlink:href="#OCTAGONP"
+       id="use4681"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="259.54352"
+       xlink:href="#OCTAGONP"
+       id="use4683"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="259.54352"
+       xlink:href="#OCTAGONP"
+       id="use4685"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="280.47443"
+       xlink:href="#OCTAGONP"
+       id="use4687"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="280.47443"
+       xlink:href="#OCTAGONP"
+       id="use4689"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="301.40536"
+       xlink:href="#OCTAGONP"
+       id="use4691"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="301.40536"
+       xlink:href="#OCTAGONP"
+       id="use4693"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="322.3363"
+       xlink:href="#OCTAGONP"
+       id="use4695"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="322.3363"
+       xlink:href="#OCTAGONP"
+       id="use4697"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="343.26721"
+       xlink:href="#OCTAGONP"
+       id="use4699"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="343.26721"
+       xlink:href="#OCTAGONP"
+       id="use4701"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     inkscape:label="19"
+     inkscape:groupmode="layer"
+     id="g4703"
+     transform="translate(-187.69805,-757.00375)" />
+  <g
+     inkscape:label="20"
+     inkscape:groupmode="layer"
+     id="g4705"
+     transform="translate(-187.69805,-757.00375)" />
+  <g
+     inkscape:label="21"
+     inkscape:groupmode="layer"
+     id="g4711"
+     transform="translate(-187.69805,-757.00375)" />
+  <g
+     inkscape:label="23"
+     inkscape:groupmode="layer"
+     id="g4737"
+     transform="translate(-187.69805,-757.00375)" />
+  <g
+     inkscape:label="25"
+     inkscape:groupmode="layer"
+     id="g4757"
+     transform="translate(-187.69805,-757.00375)" />
+  <g
+     inkscape:label="39"
+     inkscape:groupmode="layer"
+     id="g4759"
+     transform="translate(-187.69805,-757.00375)" />
+  <g
+     inkscape:label="41"
+     inkscape:groupmode="layer"
+     id="g4761"
+     transform="translate(-187.69805,-757.00375)" />
+  <g
+     inkscape:label="45"
+     inkscape:groupmode="layer"
+     id="g4763"
+     transform="translate(-187.69805,-757.00375)" />
+  <g
+     inkscape:label="51"
+     inkscape:groupmode="layer"
+     id="g4765"
+     transform="translate(-187.69805,-757.00375)">
+    <use
+       y="-251.17114"
+       x="460.48041"
+       xlink:href="#RECT"
+       id="use4767"
+       width="100%"
+       height="100%" />
+    <use
+       y="-251.17114"
+       x="481.41135"
+       xlink:href="#RECT"
+       id="use4769"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="481.41135"
+       xlink:href="#RECT"
+       id="use4771"
+       width="100%"
+       height="100%" />
+    <use
+       y="-230.2402"
+       x="460.48041"
+       xlink:href="#RECT"
+       id="use4773"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="481.41135"
+       xlink:href="#RECT"
+       id="use4775"
+       width="100%"
+       height="100%" />
+    <use
+       y="-209.30928"
+       x="460.48041"
+       xlink:href="#RECT"
+       id="use4777"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="251.17114"
+       xlink:href="#RECT"
+       id="use4779"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="272.10205"
+       xlink:href="#RECT"
+       id="use4781"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="293.03299"
+       xlink:href="#RECT"
+       id="use4783"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="313.96393"
+       xlink:href="#RECT"
+       id="use4785"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="334.89484"
+       xlink:href="#RECT"
+       id="use4787"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="355.82578"
+       xlink:href="#RECT"
+       id="use4789"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="376.75671"
+       xlink:href="#RECT"
+       id="use4791"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="230.2402"
+       xlink:href="#RECT"
+       id="use4793"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="502.34229"
+       xlink:href="#RECT"
+       id="use4795"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="481.41135"
+       xlink:href="#RECT"
+       id="use4797"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="460.48041"
+       xlink:href="#RECT"
+       id="use4799"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="439.5495"
+       xlink:href="#RECT"
+       id="use4801"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="418.61856"
+       xlink:href="#RECT"
+       id="use4803"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="397.68762"
+       xlink:href="#RECT"
+       id="use4805"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="376.75671"
+       xlink:href="#RECT"
+       id="use4807"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="523.27319"
+       xlink:href="#RECT"
+       id="use4809"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="439.5495"
+       xlink:href="#RECT"
+       id="use4811"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="460.48041"
+       xlink:href="#RECT"
+       id="use4813"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="481.41135"
+       xlink:href="#RECT"
+       id="use4815"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="502.34229"
+       xlink:href="#RECT"
+       id="use4817"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="523.27319"
+       xlink:href="#RECT"
+       id="use4819"
+       width="100%"
+       height="100%" />
+    <use
+       y="-62.792786"
+       x="418.61856"
+       xlink:href="#RECT"
+       id="use4821"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="355.82578"
+       xlink:href="#RECT"
+       id="use4823"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="334.89484"
+       xlink:href="#RECT"
+       id="use4825"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="313.96393"
+       xlink:href="#RECT"
+       id="use4827"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="293.03299"
+       xlink:href="#RECT"
+       id="use4829"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="272.10205"
+       xlink:href="#RECT"
+       id="use4831"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="251.17114"
+       xlink:href="#RECT"
+       id="use4833"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="230.2402"
+       xlink:href="#RECT"
+       id="use4835"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="209.30928"
+       xlink:href="#RECT"
+       id="use4837"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="188.37836"
+       xlink:href="#RECT"
+       id="use4839"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="167.44742"
+       xlink:href="#RECT"
+       id="use4841"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="146.51649"
+       xlink:href="#RECT"
+       id="use4843"
+       width="100%"
+       height="100%" />
+    <use
+       y="-324.42938"
+       x="376.75671"
+       xlink:href="#RECT"
+       id="use4845"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="355.82578"
+       xlink:href="#RECT"
+       id="use4847"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="334.89484"
+       xlink:href="#RECT"
+       id="use4849"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="313.96393"
+       xlink:href="#RECT"
+       id="use4851"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="293.03299"
+       xlink:href="#RECT"
+       id="use4853"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="272.10205"
+       xlink:href="#RECT"
+       id="use4855"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="251.17114"
+       xlink:href="#RECT"
+       id="use4857"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="230.2402"
+       xlink:href="#RECT"
+       id="use4859"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="209.30928"
+       xlink:href="#RECT"
+       id="use4861"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="188.37836"
+       xlink:href="#RECT"
+       id="use4863"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="167.44742"
+       xlink:href="#RECT"
+       id="use4865"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="146.51649"
+       xlink:href="#RECT"
+       id="use4867"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="125.58557"
+       xlink:href="#RECT"
+       id="use4869"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="104.65464"
+       xlink:href="#RECT"
+       id="use4871"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="83.723709"
+       xlink:href="#RECT"
+       id="use4873"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="62.792786"
+       xlink:href="#RECT"
+       id="use4875"
+       width="100%"
+       height="100%" />
+    <use
+       y="-94.189178"
+       x="376.75671"
+       xlink:href="#RECT"
+       id="use4877"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="280.47443"
+       xlink:href="#RECT"
+       id="use4897"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="259.54352"
+       xlink:href="#RECT"
+       id="use4899"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="238.61258"
+       xlink:href="#RECT"
+       id="use4901"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="217.68166"
+       xlink:href="#RECT"
+       id="use4903"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="196.75072"
+       xlink:href="#RECT"
+       id="use4905"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="175.81979"
+       xlink:href="#RECT"
+       id="use4907"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="154.88887"
+       xlink:href="#RECT"
+       id="use4909"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="301.40536"
+       xlink:href="#RECT"
+       id="use4911"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="322.3363"
+       xlink:href="#RECT"
+       id="use4913"
+       width="100%"
+       height="100%" />
+    <use
+       y="-376.75671"
+       x="343.26721"
+       xlink:href="#RECT"
+       id="use4915"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     inkscape:label="0"
+     inkscape:groupmode="layer"
+     id="g4917"
+     transform="translate(-187.69805,-757.00375)">
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:medium;line-height:125%;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5137"
+       d="m 208.92694,787.43182 0,-4.576 -9.19918,0 -2.97205,4.576 -9.05766,0 17.87945,-27.59755 q 1.83983,-2.83052 5.04775,-2.83052 2.40594,0 4.15143,1.79266 1.79266,1.74549 1.79266,4.15143 l 0,10.80314 -7.6424,0 0,-5.09493 -4.34013,6.60454 11.98253,0 0,12.17123 -7.6424,0 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:medium;line-height:125%;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5139"
+       d="m 241.90248,764.59898 -5.56668,0 0,-7.59523 10.66162,0 -5.09494,7.59523 z m -14.67152,22.83284 0,-22.83284 -7.59522,0 0,-7.59523 15.19045,0 0,30.42807 -7.59523,0 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:medium;line-height:125%;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5141"
+       d="m 277.51984,787.43182 0,-18.77577 q -1.79266,3.2551 -2.92487,5.28364 -3.96273,6.93477 -7.73675,6.93477 -3.72685,0 -7.68958,-6.8876 -1.5096,-2.64182 -2.97204,-5.33081 l 0,18.77577 -7.59522,0 0,-24.48398 q 0,-2.45312 1.74548,-4.1986 1.74549,-1.74549 4.1986,-1.74549 4.19861,0 8.86896,7.92545 1.69831,3.0664 3.4438,6.13279 1.46243,-2.64181 2.97204,-5.28363 2.26442,-3.96273 4.10426,-5.94409 2.64181,-2.83052 5.23645,-2.83052 2.45312,0 4.19861,1.74549 1.74548,1.74548 1.74548,4.1986 l 0,24.48398 -7.59522,0 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:medium;line-height:125%;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5143"
+       d="m 288.13428,769.17498 5.09493,-7.59522 13.91672,0 q 1.60396,0 2.68899,1.1322 1.13221,1.08504 1.13221,2.64182 l 0,3.8212 -22.83285,0 z m 3.8212,18.25684 q -1.55678,0 -2.68899,-1.1322 -1.13221,-1.13221 -1.13221,-2.689 l 0,-9.10483 q 0,-1.55679 1.13221,-2.68899 1.13221,-1.13221 2.68899,-1.13221 l 4.81188,0 5.09494,7.59522 -6.08562,0 0,1.55679 7.59523,0 0,-9.15201 7.59522,0 0,16.74723 -19.01165,0 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:medium;line-height:125%;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5145"
+       d="m 330.07313,787.43182 -6.93477,-10.66162 0,-7.50087 4.9534,-7.68957 9.05766,0 -7.40652,11.41642 9.38789,14.43564 -9.05766,0 z m -16.08678,0 0,-30.42807 7.6424,0 0,30.42807 -7.6424,0 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:medium;line-height:125%;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5147"
+       d="m 359.7464,778.27981 -4.81188,0 -5.09494,-7.59522 13.68084,0 0,3.8212 q 0,1.55678 -1.13221,2.68899 -1.08503,1.08503 -2.64181,1.08503 z m 0.23587,9.15201 -15.4735,0 q -1.55678,0 -2.68899,-1.1322 -1.13221,-1.13221 -1.13221,-2.689 l 0,-18.25684 q 0,-1.50961 1.13221,-2.64182 1.13221,-1.1322 2.68899,-1.1322 l 15.23763,0 q 1.55678,0 2.64181,1.1322 1.13221,1.08504 1.13221,2.64182 l 0,3.8212 -15.19045,0 0,10.66162 16.74724,0 -5.09494,7.59522 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:medium;line-height:125%;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5149"
+       d="m 377.29561,769.17498 0,-7.59522 8.5859,0 5.09494,7.59522 -13.68084,0 z m -9.15201,18.25684 0,-25.85206 7.6424,0 0,25.85206 -7.6424,0 z" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:medium;line-height:125%;font-family:'AR DESTINE';-inkscape-font-specification:'AR DESTINE, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5151"
+       d="m 392.20301,769.17498 0,-3.8212 q 0,-1.50961 1.13221,-2.64182 1.13221,-1.1322 2.68899,-1.1322 l 13.91672,0 5.09493,7.59522 -22.83285,0 z m 19.05883,18.25684 -15.4735,0 -5.09494,-7.59522 13.02039,0 -9.81247,-9.15201 10.94467,0 q 3.67968,3.16075 7.35935,6.27432 2.83052,2.83051 2.83052,4.3873 l 0,2.26441 q 0,1.41526 -1.22656,2.64182 -1.17938,1.17938 -2.54746,1.17938 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5116"
+       d="m 215.91769,816.3869 q 0,1.69922 -0.80078,3.35938 -0.78125,1.66015 -2.20703,2.8125 -1.5625,1.25 -3.65234,1.95312 -2.07031,0.70313 -5,0.70313 -3.14453,0 -5.66406,-0.58594 -2.5,-0.58594 -5.09766,-1.73828 l 0,-4.84375 0.27344,0 q 2.20703,1.83594 5.09765,2.83203 2.89063,0.99609 5.42969,0.99609 3.59375,0 5.58594,-1.34765 2.01172,-1.34766 2.01172,-3.59375 0,-1.9336 -0.95703,-2.85157 -0.9375,-0.91796 -2.8711,-1.42578 -1.46484,-0.39062 -3.18359,-0.64453 -1.69922,-0.2539 -3.61328,-0.64453 -3.86719,-0.82031 -5.74219,-2.79297 -1.85547,-1.99219 -1.85547,-5.17578 0,-3.65234 3.08594,-5.97656 3.08594,-2.34375 7.83203,-2.34375 3.06641,0 5.625,0.58594 2.55859,0.58593 4.53125,1.44531 l 0,4.57031 -0.27344,0 q -1.66015,-1.40625 -4.375,-2.32422 -2.69531,-0.9375 -5.52734,-0.9375 -3.10547,0 -5,1.28906 -1.875,1.28907 -1.875,3.32032 0,1.8164 0.9375,2.85156 0.9375,1.03516 3.30078,1.58203 1.25,0.27344 3.55469,0.66406 2.30468,0.39063 3.90625,0.80078 3.24218,0.85938 4.88281,2.59766 1.64062,1.73828 1.64062,4.86328 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5118"
+       d="m 240.07785,824.68768 -3.67187,0 0,-12.42187 q 0,-1.50391 -0.17579,-2.8125 -0.17578,-1.32813 -0.64453,-2.07031 -0.48828,-0.82032 -1.40625,-1.21094 -0.91797,-0.41016 -2.38281,-0.41016 -1.50391,0 -3.14453,0.74219 -1.64063,0.74219 -3.14453,1.89453 l 0,16.28906 -3.67188,0 0,-30.39062 3.67188,0 0,10.99609 q 1.71875,-1.42578 3.55469,-2.22656 1.83593,-0.80078 3.76953,-0.80078 3.53515,0 5.39062,2.1289 1.85547,2.12891 1.85547,6.13282 l 0,14.16015 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5120"
+       d="m 251.09348,799.21893 -4.14063,0 0,-3.80859 4.14063,0 0,3.80859 z m -0.23438,25.46875 -3.67187,0 0,-21.8164 3.67187,0 0,21.8164 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5122"
+       d="m 276.26926,814.16034 -16.07422,0 q 0,2.01172 0.60547,3.51562 0.60547,1.48438 1.66015,2.44141 1.01563,0.9375 2.40235,1.40625 1.40625,0.46875 3.08593,0.46875 2.22657,0 4.47266,-0.87891 2.26563,-0.89843 3.22266,-1.75781 l 0.19531,0 0,4.00391 q -1.85547,0.78125 -3.78906,1.30859 -1.9336,0.52735 -4.0625,0.52735 -5.42969,0 -8.47657,-2.92969 -3.04687,-2.94922 -3.04687,-8.35938 0,-5.35156 2.91016,-8.49609 2.92968,-3.14453 7.69531,-3.14453 4.41406,0 6.79687,2.57812 2.40235,2.57813 2.40235,7.32422 l 0,1.99219 z m -3.57422,-2.8125 q -0.0195,-2.89063 -1.46485,-4.47266 -1.42578,-1.58203 -4.35546,-1.58203 -2.94922,0 -4.70704,1.73828 -1.73828,1.73828 -1.97265,4.31641 l 12.5,0 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5124"
+       d="m 285.5466,824.68768 -3.67187,0 0,-30.39062 3.67187,0 0,30.39062 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5126"
+       d="m 310.39035,824.68768 -3.67187,0 0,-2.28515 q -1.58204,1.36718 -3.30079,2.1289 -1.71875,0.76172 -3.73046,0.76172 -3.90625,0 -6.21094,-3.00781 -2.28516,-3.00781 -2.28516,-8.33984 0,-2.77344 0.78125,-4.94141 0.80078,-2.16797 2.14844,-3.69141 1.32812,-1.48437 3.08594,-2.26562 1.77734,-0.78125 3.67187,-0.78125 1.71875,0 3.04688,0.37109 1.32812,0.35156 2.79297,1.11328 l 0,-9.45312 3.67187,0 0,30.39062 z m -3.67187,-5.37109 0,-12.51953 q -1.48438,-0.66406 -2.65625,-0.91797 -1.17188,-0.25391 -2.5586,-0.25391 -3.08594,0 -4.80469,2.14844 -1.71875,2.14844 -1.71875,6.09375 0,3.88672 1.32813,5.91797 1.32812,2.01172 4.25781,2.01172 1.5625,0 3.16406,-0.6836 1.60157,-0.70312 2.98829,-1.79687 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5128"
+       d="m 351.75754,795.60565 -7.5586,29.08203 -4.35546,0 -6.11329,-24.14062 -5.97656,24.14062 -4.25781,0 -7.69531,-29.08203 3.96484,0 6.11328,24.17969 6.01563,-24.17969 3.92578,0 6.07422,24.41406 6.07422,-24.41406 3.78906,0 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5130"
+       d="m 361.09348,799.21893 -4.14063,0 0,-3.80859 4.14063,0 0,3.80859 z m -0.23438,25.46875 -3.67187,0 0,-21.8164 3.67187,0 0,21.8164 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5132"
+       d="m 386.24973,824.68768 -3.67188,0 0,-12.42187 q 0,-1.50391 -0.17578,-2.8125 -0.17578,-1.32813 -0.64453,-2.07031 -0.48828,-0.82032 -1.40625,-1.21094 -0.91797,-0.41016 -2.38281,-0.41016 -1.50391,0 -3.14454,0.74219 -1.64062,0.74219 -3.14453,1.89453 l 0,16.28906 -3.67187,0 0,-21.8164 3.67187,0 0,2.42187 q 1.71875,-1.42578 3.55469,-2.22656 1.83594,-0.80078 3.76953,-0.80078 3.53516,0 5.39063,2.1289 1.85547,2.12891 1.85547,6.13282 l 0,14.16015 z" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path5134"
+       d="m 411.01535,822.20721 q 0,5.54688 -2.51953,8.14454 -2.51953,2.59765 -7.75391,2.59765 -1.73828,0 -3.39843,-0.2539 -1.64063,-0.23438 -3.24219,-0.6836 l 0,-3.75 0.19531,0 q 0.89844,0.35156 2.85156,0.85938 1.95313,0.52734 3.90625,0.52734 1.875,0 3.10547,-0.44922 1.23047,-0.44922 1.91406,-1.25 0.6836,-0.76172 0.97657,-1.83594 0.29297,-1.07421 0.29297,-2.40234 l 0,-1.99219 q -1.66016,1.32813 -3.1836,1.99219 -1.5039,0.64453 -3.84765,0.64453 -3.90625,0 -6.21094,-2.8125 -2.28516,-2.83203 -2.28516,-7.96875 0,-2.8125 0.78125,-4.84375 0.80078,-2.05078 2.16797,-3.53515 1.26953,-1.38672 3.08594,-2.14844 1.8164,-0.78125 3.61328,-0.78125 1.89453,0 3.16406,0.39062 1.28906,0.3711 2.71485,1.15235 l 0.23437,-0.9375 3.4375,0 0,19.33593 z m -3.67187,-3.51562 0,-11.89453 q -1.46485,-0.66406 -2.73438,-0.9375 -1.25,-0.29297 -2.5,-0.29297 -3.02734,0 -4.76562,2.03125 -1.73829,2.03125 -1.73829,5.89844 0,3.67187 1.28907,5.5664 1.28906,1.89453 4.27734,1.89453 1.60156,0 3.20313,-0.60546 1.62109,-0.625 2.96875,-1.66016 z" />
+  </g>
+</svg>
