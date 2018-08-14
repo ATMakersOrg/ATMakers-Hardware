@@ -1,0 +1,27 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "RelayWing.brd" as of: 7/5/2018 12:43 AM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+A0,Bottom,0.100,2.200,270
+A1,Bottom,0.250,2.200,270
+C1,Top,1.000,1.600,180
+C2,Top,0.400,2.400,0
+K1,Top,1.700,2.300,0
+K2,Top,1.050,2.300,0
+K3,Top,0.400,1.000,180
+K4,Top,1.050,1.000,180
+K5,Top,1.700,1.000,180
+PWR,Top,0.250,2.650,180
+R1,Top,0.570,2.420,180
+RESET,Top,0.150,2.400,0
+RN1,Top,1.850,1.500,180
+U$2,Top,0.075,2.675,0
+U$3,Top,1.975,0.615,0
+U1,Top,0.300,1.700,0
+U2,Top,1.550,1.650,270
+U3,Top,0.750,1.650,90
+U4,Top,0.530,2.230,0
