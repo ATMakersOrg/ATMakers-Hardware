@@ -1,26 +1,19 @@
-<h3>Bill's Topology</h3>
+<h3>SwitchBoard Rev B</h3>
 <b>Changes</b>:
 <ul>
-<li>relays moved to edge
-<li>new EE2 device
-<li>resistor network
-<li>micro reset switch
-<li>terminal blocks fixed
-<li><b>May</b>
-<li>bottom logo
-<li>Port A: set lines + 3 gpio<br/>Port B: reset lines + 3 gpio
-<li>2x8 breakout connector reworked for A and B sides
-<li>Fixed resistor network, new device CTS746X101
-<li>Rounded corners
-<li>Added Relay labels (mostly)
-<li>Changed Relay Driver p/n (ansR)
+<li>stronger pull-ups for I2C (new resistor network)
+<li>reset line: pull-up, cap, resistor
+<li>new LED (140-180 mcd - being evaluated)
+<li>inserted holes for continuous headers
+<li>0.1" row alignment
+<li>added ground plane
 </ul>
 <p>
 <b>To Do</b>:
 <ul>
-<li>add rating and CS DC Only
+<li>finish routing
+<li>fix vias
+<li>export a new .lib file
 <li>ground left mounting holes
-<li>insert remaining part numbers
 </ul>
-<p>
-<b>Footprints Validated</b>
+
