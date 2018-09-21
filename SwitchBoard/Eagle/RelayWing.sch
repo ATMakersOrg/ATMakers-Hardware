@@ -10268,11 +10268,8 @@ Distributor: Digi Key</description>
 <class number="0" name="default" width="0.2032" drill="0">
 <clearance class="0" value="0.2032"/>
 </class>
-<class number="1" name="2A" width="0.8128" drill="0">
+<class number="1" name="Two Amp" width="0.8128" drill="0">
 <clearance class="1" value="0.2032"/>
-</class>
-<class number="2" name="coils 200mA" width="0.2032" drill="0">
-<clearance class="2" value="0.2032"/>
 </class>
 </classes>
 <parts>
@@ -10677,7 +10674,7 @@ Distributor: Digi Key</description>
 <wire x1="30.48" y1="165.1" x2="25.4" y2="165.1" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="K1-SET" class="2">
+<net name="K1-SET" class="0">
 <segment>
 <pinref part="K1" gate="S" pin="-"/>
 <pinref part="U1" gate="A" pin="O1"/>
@@ -10694,7 +10691,7 @@ Distributor: Digi Key</description>
 <wire x1="27.94" y1="134.493" x2="27.94" y2="124.587" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="K2-SET" class="2">
+<net name="K2-SET" class="0">
 <segment>
 <pinref part="K2" gate="S" pin="-"/>
 <wire x1="58.42" y1="139.7" x2="58.42" y2="132.08" width="0.1524" layer="91"/>
@@ -10721,7 +10718,7 @@ Distributor: Digi Key</description>
 <pinref part="K3" gate="S" pin="-"/>
 </segment>
 </net>
-<net name="K3-RESET" class="2">
+<net name="K3-RESET" class="0">
 <segment>
 <pinref part="U1" gate="A" pin="O6"/>
 <wire x1="38.1" y1="124.587" x2="38.1" y2="128.27" width="0.1524" layer="91"/>
@@ -10786,7 +10783,7 @@ Distributor: Digi Key</description>
 <wire x1="101.6" y1="162.56" x2="101.6" y2="171.196" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="K4-SET" class="2">
+<net name="K4-SET" class="0">
 <segment>
 <pinref part="K4" gate="S" pin="-"/>
 <wire x1="66.04" y1="73.66" x2="66.04" y2="58.42" width="0.1524" layer="91"/>
@@ -10795,7 +10792,7 @@ Distributor: Digi Key</description>
 <wire x1="91.44" y1="73.66" x2="91.44" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="K4-RESET" class="2">
+<net name="K4-RESET" class="0">
 <segment>
 <wire x1="50.8" y1="58.42" x2="50.8" y2="76.2" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="76.2" x2="88.9" y2="76.2" width="0.1524" layer="91"/>
@@ -10804,7 +10801,7 @@ Distributor: Digi Key</description>
 <wire x1="88.9" y1="81.28" x2="88.9" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="K5-SET" class="2">
+<net name="K5-SET" class="0">
 <segment>
 <pinref part="K5" gate="S" pin="-"/>
 <pinref part="U2" gate="A" pin="O3"/>
@@ -10879,7 +10876,7 @@ Distributor: Digi Key</description>
 <wire x1="139.7" y1="115.57" x2="139.7" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="K5-RESET" class="2">
+<net name="K5-RESET" class="0">
 <segment>
 <pinref part="U2" gate="A" pin="O4"/>
 <pinref part="K5" gate="R" pin="-"/>
@@ -11455,8 +11452,8 @@ Distributor: Digi Key</description>
 <approved hash="113,1,200.897,36.9612,JP5,,,,,"/>
 <approved hash="113,1,200.897,31.8812,JP6,,,,,"/>
 <approved hash="113,1,200.897,26.8012,JP7,,,,,"/>
-<approved hash="115,1,160.02,175.26,A1,,,,,"/>
 <approved hash="115,1,152.4,173.99,A0,,,,,"/>
+<approved hash="115,1,160.02,175.26,A1,,,,,"/>
 </errors>
 </schematic>
 </drawing>
