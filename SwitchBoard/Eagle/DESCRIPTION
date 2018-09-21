@@ -2,17 +2,17 @@
 <b>Changes</b>:
 <ul>
 <li>stronger pull-ups for I2C (new resistor network)
-<li>reset line: pull-up, cap, resistor
-<li>new LED (140-180 mcd - being evaluated)
+<li>reset line: pull-up, resistor, cap (moved to hdr)
+<li>new LED, added resistor
 <li>inserted holes for continuous headers
-<li>0.1" row alignment
+<li>0.1" hole & row alignment
 <li>added ground plane
 </ul>
 <p>
 <b>To Do</b>:
 <ul>
-<li>finish routing
-<li>fix vias
+<li>review routing of bypass cap leads
+<li>maybe make CSense hole a ground terminal
 <li>export a new .lib file
 <li>ground left mounting holes
 </ul>
