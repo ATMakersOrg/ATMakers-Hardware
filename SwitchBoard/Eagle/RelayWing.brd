@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.3.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -2797,20 +2797,20 @@
 <text x="8.255" y="2.032" size="0.9144" layer="26" rot="MR0">CO</text>
 <text x="13.335" y="2.032" size="0.9144" layer="26" rot="MR0">NO</text>
 <text x="5.715" y="2.032" size="0.9144" layer="26" rot="MR0">NO</text>
-<text x="41.148" y="57.912" size="0.9144" layer="26" rot="MR0">NC</text>
-<text x="48.768" y="57.912" size="0.9144" layer="26" rot="MR0">NC</text>
-<text x="43.688" y="57.912" size="0.9144" layer="26" rot="MR0">CO</text>
-<text x="51.308" y="57.912" size="0.9144" layer="26" rot="MR0">CO</text>
-<text x="46.228" y="57.912" size="0.9144" layer="26" rot="MR0">NO</text>
-<text x="53.848" y="57.912" size="0.9144" layer="26" rot="MR0">NO</text>
-<text x="23.495" y="57.912" size="0.9144" layer="26" rot="MR0">NC</text>
-<text x="30.988" y="57.912" size="0.9144" layer="26" rot="MR0">NC</text>
-<text x="26.035" y="57.912" size="0.9144" layer="26" rot="MR0">CO</text>
-<text x="33.528" y="57.912" size="0.9144" layer="26" rot="MR0">CO</text>
-<text x="28.575" y="57.912" size="0.9144" layer="26" rot="MR0">NO</text>
-<text x="36.068" y="57.912" size="0.9144" layer="26" rot="MR0">NO</text>
-<text x="18.415" y="57.785" size="0.9144" layer="26" rot="MR0">V+</text>
-<text x="15.748" y="57.785" size="0.9144" layer="26" rot="MR0">V-</text>
+<text x="39.878" y="58.801" size="0.9144" layer="26" rot="SMR180">NC</text>
+<text x="47.625" y="58.801" size="0.9144" layer="26" rot="SMR180">NC</text>
+<text x="42.418" y="58.801" size="0.9144" layer="26" rot="SMR180">CO</text>
+<text x="50.165" y="58.801" size="0.9144" layer="26" rot="SMR180">CO</text>
+<text x="44.958" y="58.801" size="0.9144" layer="26" rot="SMR180">NO</text>
+<text x="52.832" y="58.801" size="0.9144" layer="26" rot="SMR180">NO</text>
+<text x="22.225" y="58.801" size="0.9144" layer="26" rot="SMR180">NC</text>
+<text x="29.718" y="58.801" size="0.9144" layer="26" rot="SMR180">NC</text>
+<text x="24.765" y="58.801" size="0.9144" layer="26" rot="SMR180">CO</text>
+<text x="32.258" y="58.801" size="0.9144" layer="26" rot="SMR180">CO</text>
+<text x="27.305" y="58.801" size="0.9144" layer="26" rot="SMR180">NO</text>
+<text x="34.798" y="58.801" size="0.9144" layer="26" rot="SMR180">NO</text>
+<text x="17.272" y="58.801" size="0.9144" layer="26" rot="SMR180">V+</text>
+<text x="14.605" y="58.801" size="0.9144" layer="26" rot="SMR180">V-</text>
 <hole x="20.32" y="55.88" drill="1.016"/>
 <hole x="38.1" y="55.88" drill="1.016"/>
 <hole x="20.32" y="5.08" drill="1.016"/>
