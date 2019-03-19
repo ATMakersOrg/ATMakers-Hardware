@@ -10341,9 +10341,9 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <attribute name="VALUE" x="245.11" y="139.7" size="1.016" layer="96" rot="R90"/>
 </instance>
 <instance part="U$4" gate="G$1" x="81.28" y="111.76" smashed="yes"/>
-<instance part="R1" gate="G$1" x="223.52" y="144.78" smashed="yes">
-<attribute name="NAME" x="219.71" y="146.2786" size="1.778" layer="95"/>
-<attribute name="VALUE" x="219.71" y="141.478" size="1.778" layer="96"/>
+<instance part="R1" gate="G$1" x="251.46" y="137.16" smashed="yes" rot="R90">
+<attribute name="NAME" x="249.9614" y="133.35" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="254.762" y="133.35" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="LED1" gate="G$1" x="88.9" y="154.94" smashed="yes" rot="R90">
 <attribute name="NAME" x="93.472" y="158.496" size="1.778" layer="95" rot="R180"/>
@@ -10393,10 +10393,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <wire x1="177.8" y1="38.1" x2="205.74" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="205.74" y1="38.1" x2="205.74" y2="58.42" width="0.1524" layer="91"/>
 <junction x="205.74" y="58.42"/>
-<pinref part="TB6" gate="G$1" pin="2"/>
-<wire x1="238.76" y1="142.24" x2="238.76" y2="134.62" width="0.1524" layer="91"/>
-<wire x1="238.76" y1="134.62" x2="243.84" y2="134.62" width="0.1524" layer="91"/>
-<wire x1="243.84" y1="134.62" x2="243.84" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="243.84" y1="132.08" x2="243.84" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="243.84" y1="38.1" x2="205.74" y2="38.1" width="0.1524" layer="91"/>
 <junction x="205.74" y="38.1"/>
 <pinref part="R2" gate="G$1" pin="2"/>
@@ -10413,6 +10410,8 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <pinref part="GNDPIN" gate="G$1" pin="1"/>
 <wire x1="177.8" y1="43.18" x2="177.8" y2="38.1" width="0.1524" layer="91"/>
 <junction x="177.8" y="38.1"/>
+<pinref part="R1" gate="G$1" pin="1"/>
+<wire x1="251.46" y1="132.08" x2="243.84" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="3V" class="0">
@@ -10864,15 +10863,8 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <wire x1="109.22" y1="83.82" x2="109.22" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="147.32" x2="210.82" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="147.32" x2="210.82" y2="144.78" width="0.1524" layer="91"/>
-<pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="210.82" y1="144.78" x2="218.44" y2="144.78" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$54" class="0">
-<segment>
-<pinref part="R1" gate="G$1" pin="2"/>
 <pinref part="TB6" gate="G$1" pin="1"/>
-<wire x1="228.6" y1="144.78" x2="238.76" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="210.82" y1="144.78" x2="238.76" y2="144.78" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$55" class="0">
@@ -10997,6 +10989,13 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <wire x1="162.56" y1="93.98" x2="162.56" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="162.56" y1="73.66" x2="198.12" y2="73.66" width="0.1524" layer="91"/>
 <junction x="198.12" y="73.66"/>
+</segment>
+</net>
+<net name="N$18" class="0">
+<segment>
+<pinref part="TB6" gate="G$1" pin="2"/>
+<pinref part="R1" gate="G$1" pin="2"/>
+<wire x1="238.76" y1="142.24" x2="251.46" y2="142.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
