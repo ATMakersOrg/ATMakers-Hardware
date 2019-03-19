@@ -8,10 +8,10 @@
 </settings>
 <grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="yes"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="25" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
@@ -21,7 +21,7 @@
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
@@ -2227,7 +2227,6 @@
 <vertex x="13.5570625" y="49.977484375"/>
 <vertex x="15.46548125" y="49.977475"/>
 </polygon>
-<text x="9.271" y="62.992" size="0.6096" layer="21" rot="SR180">Rly1 A B Rly2 A B CS</text>
 <text x="16.383" y="14.478" size="0.6096" layer="21">Rly3
 A B</text>
 <text x="53.975" y="11.557" size="0.6096" layer="21">Rly5
@@ -2237,6 +2236,7 @@ A B</text>
 <hole x="19.05" y="11.43" drill="1.016"/>
 <hole x="36.83" y="11.43" drill="1.016"/>
 <text x="39.497" y="5.207" size="1.778" layer="25">Restart Test</text>
+<text x="41.91" y="16.51" size="6.4516" layer="26" font="vector" rot="MR0">Tester</text>
 </plain>
 <libraries>
 <library name="microbuilder">
