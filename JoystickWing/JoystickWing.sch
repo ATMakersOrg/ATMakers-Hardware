@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,21 +39,21 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="58" name="bCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="61" name="stand" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="58" name="bCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="61" name="stand" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -1977,26 +1977,6 @@ type 0309, grid 2.5 mm</description>
 <rectangle x1="-14.224" y1="-0.254" x2="-13.716" y2="0.254" layer="51"/>
 <rectangle x1="13.716" y1="-0.254" x2="14.224" y2="0.254" layer="51"/>
 </package>
-<package name="TO92-EBC-OVAL" urn="urn:adsk.eagle:footprint:6240001/1" library_version="2">
-<description>&lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;
-grid 5.08 mm</description>
-<wire x1="-2.095" y1="-2.921" x2="2.095" y2="-2.921" width="0.127" layer="21"/>
-<wire x1="-2.413" y1="-0.1341" x2="2.413" y2="-0.1341" width="0.127" layer="21" curve="-129.583345" cap="flat"/>
-<wire x1="1.136" y1="-1.397" x2="-1.136" y2="-1.397" width="0.127" layer="51"/>
-<wire x1="-2.413" y1="-0.1341" x2="-2.413" y2="-2.4059" width="0.127" layer="51" curve="50.416655" cap="flat"/>
-<wire x1="-1.404" y1="-1.397" x2="-2.664" y2="-1.397" width="0.127" layer="51"/>
-<wire x1="-2.4135" y1="-2.4059" x2="-2.095" y2="-2.921" width="0.127" layer="21" curve="13.038528" cap="flat"/>
-<wire x1="-1.136" y1="-1.397" x2="-1.404" y2="-1.397" width="0.127" layer="21"/>
-<wire x1="2.413" y1="-2.4059" x2="2.413" y2="-0.1341" width="0.127" layer="51" curve="50.416655" cap="flat"/>
-<wire x1="2.664" y1="-1.397" x2="1.404" y2="-1.397" width="0.127" layer="51"/>
-<wire x1="1.404" y1="-1.397" x2="1.136" y2="-1.397" width="0.127" layer="21"/>
-<wire x1="2.095" y1="-2.921" x2="2.4247" y2="-2.3818" width="0.127" layer="21" curve="13.609443" cap="flat"/>
-<pad name="E" x="-2.54" y="-1.27" drill="0.8128" shape="long" rot="R90"/>
-<pad name="C" x="2.54" y="-1.27" drill="0.8128" shape="long" rot="R90"/>
-<pad name="B" x="0" y="-1.27" drill="0.8128" shape="long" rot="R90"/>
-<text x="-2.54" y="1.778" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-2.54" y="-4.572" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
-</package>
 </packages>
 <packages3d>
 <package3d name="FEATHERWING" urn="urn:adsk.eagle:package:6240959/1" type="box" library_version="2">
@@ -2510,13 +2490,6 @@ type 0309, grid 2.5 mm</description>
 <packageinstance name="1X12-CB"/>
 </packageinstances>
 </package3d>
-<package3d name="TO92-EBC-OVAL" urn="urn:adsk.eagle:package:6240647/1" type="box" library_version="2">
-<description>&lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;
-grid 5.08 mm</description>
-<packageinstances>
-<packageinstance name="TO92-EBC-OVAL"/>
-</packageinstances>
-</package3d>
 </packages3d>
 <symbols>
 <symbol name="MICROSHIELD" urn="urn:adsk.eagle:symbol:6239672/1" library_version="2">
@@ -2605,24 +2578,6 @@ grid 5.08 mm</description>
 <pin name="10" x="-2.54" y="-10.16" visible="pad" length="short" direction="pas" function="dot"/>
 <pin name="11" x="-2.54" y="-12.7" visible="pad" length="short" direction="pas" function="dot"/>
 <pin name="12" x="-2.54" y="-15.24" visible="pad" length="short" direction="pas" function="dot"/>
-</symbol>
-<symbol name="NPN" urn="urn:adsk.eagle:symbol:6239468/1" library_version="2">
-<wire x1="2.54" y1="2.54" x2="0.508" y2="1.524" width="0.1524" layer="94"/>
-<wire x1="1.778" y1="-1.524" x2="2.54" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="2.54" y1="-2.54" x2="1.27" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="1.27" y1="-2.54" x2="1.778" y2="-1.524" width="0.1524" layer="94"/>
-<wire x1="1.54" y1="-2.04" x2="0.308" y2="-1.424" width="0.1524" layer="94"/>
-<wire x1="1.524" y1="-2.413" x2="2.286" y2="-2.413" width="0.254" layer="94"/>
-<wire x1="2.286" y1="-2.413" x2="1.778" y2="-1.778" width="0.254" layer="94"/>
-<wire x1="1.778" y1="-1.778" x2="1.524" y2="-2.286" width="0.254" layer="94"/>
-<wire x1="1.524" y1="-2.286" x2="1.905" y2="-2.286" width="0.254" layer="94"/>
-<wire x1="1.905" y1="-2.286" x2="1.778" y2="-2.032" width="0.254" layer="94"/>
-<text x="-10.16" y="7.62" size="1.778" layer="95">&gt;NAME</text>
-<text x="-10.16" y="5.08" size="1.778" layer="96">&gt;VALUE</text>
-<rectangle x1="-0.254" y1="-2.54" x2="0.508" y2="2.54" layer="94"/>
-<pin name="B" x="-2.54" y="0" visible="off" length="short" direction="pas" swaplevel="1"/>
-<pin name="E" x="2.54" y="-5.08" visible="off" length="short" direction="pas" swaplevel="3" rot="R90"/>
-<pin name="C" x="2.54" y="5.08" visible="off" length="short" direction="pas" swaplevel="2" rot="R270"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -3621,28 +3576,6 @@ grid 5.08 mm</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2N2222" urn="urn:adsk.eagle:component:6240968/1" prefix="T" library_version="2">
-<description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;
-Big oval pads</description>
-<gates>
-<gate name="G$1" symbol="NPN" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="TO92-EBC-OVAL">
-<connects>
-<connect gate="G$1" pin="B" pad="B"/>
-<connect gate="G$1" pin="C" pad="C"/>
-<connect gate="G$1" pin="E" pad="E"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:6240647/1"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
 </devicesets>
 </library>
 <library name="supply2" urn="urn:adsk.eagle:library:372">
@@ -4540,50 +4473,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <rectangle x1="16.129" y1="-2.921" x2="16.891" y2="-1.905" layer="21"/>
 <rectangle x1="18.669" y1="-2.921" x2="19.431" y2="-1.905" layer="21"/>
 </package>
-<package name="1X02" urn="urn:adsk.eagle:footprint:22309/1" library_version="3">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<wire x1="-1.905" y1="1.27" x2="-0.635" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="1.27" x2="0" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="0" y1="0.635" x2="0" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="0" y1="-0.635" x2="-0.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="0.635" x2="-2.54" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="1.27" x2="-2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="-0.635" x2="-1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="-1.27" x2="-1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="0" y1="0.635" x2="0.635" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="1.27" x2="1.905" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="1.27" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="0.635" x2="2.54" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="-0.635" x2="1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="-1.27" x2="0.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="-1.27" x2="0" y2="-0.635" width="0.1524" layer="21"/>
-<pad name="1" x="-1.27" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="2" x="1.27" y="0" drill="1.016" shape="long" rot="R90"/>
-<text x="-2.6162" y="1.8288" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-2.54" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
-<rectangle x1="-1.524" y1="-0.254" x2="-1.016" y2="0.254" layer="51"/>
-<rectangle x1="1.016" y1="-0.254" x2="1.524" y2="0.254" layer="51"/>
-</package>
-<package name="1X02/90" urn="urn:adsk.eagle:footprint:22310/1" library_version="3">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<wire x1="-2.54" y1="-1.905" x2="0" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="0" y1="-1.905" x2="0" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="0" y1="0.635" x2="-2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="0.635" x2="-2.54" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="6.985" x2="-1.27" y2="1.27" width="0.762" layer="21"/>
-<wire x1="0" y1="-1.905" x2="2.54" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="-1.905" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="0.635" x2="0" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="6.985" x2="1.27" y2="1.27" width="0.762" layer="21"/>
-<pad name="1" x="-1.27" y="-3.81" drill="1.016" shape="long" rot="R90"/>
-<pad name="2" x="1.27" y="-3.81" drill="1.016" shape="long" rot="R90"/>
-<text x="-3.175" y="-3.81" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
-<text x="4.445" y="-3.81" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
-<rectangle x1="-1.651" y1="0.635" x2="-0.889" y2="1.143" layer="21"/>
-<rectangle x1="0.889" y1="0.635" x2="1.651" y2="1.143" layer="21"/>
-<rectangle x1="-1.651" y1="-2.921" x2="-0.889" y2="-1.905" layer="21"/>
-<rectangle x1="0.889" y1="-2.921" x2="1.651" y2="-1.905" layer="21"/>
-</package>
 </packages>
 <packages3d>
 <package3d name="1X16" urn="urn:adsk.eagle:package:22432/2" type="model" library_version="3">
@@ -4596,18 +4485,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <description>PIN HEADER</description>
 <packageinstances>
 <packageinstance name="1X16/90"/>
-</packageinstances>
-</package3d>
-<package3d name="1X02" urn="urn:adsk.eagle:package:22435/2" type="model" library_version="3">
-<description>PIN HEADER</description>
-<packageinstances>
-<packageinstance name="1X02"/>
-</packageinstances>
-</package3d>
-<package3d name="1X02/90" urn="urn:adsk.eagle:package:22437/2" type="model" library_version="3">
-<description>PIN HEADER</description>
-<packageinstances>
-<packageinstance name="1X02/90"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -4635,16 +4512,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <pin name="14" x="-2.54" y="-15.24" visible="pad" length="short" direction="pas" function="dot"/>
 <pin name="15" x="-2.54" y="-17.78" visible="pad" length="short" direction="pas" function="dot"/>
 <pin name="16" x="-2.54" y="-20.32" visible="pad" length="short" direction="pas" function="dot"/>
-</symbol>
-<symbol name="PINHD2" urn="urn:adsk.eagle:symbol:22308/1" library_version="3">
-<wire x1="-6.35" y1="-2.54" x2="1.27" y2="-2.54" width="0.4064" layer="94"/>
-<wire x1="1.27" y1="-2.54" x2="1.27" y2="5.08" width="0.4064" layer="94"/>
-<wire x1="1.27" y1="5.08" x2="-6.35" y2="5.08" width="0.4064" layer="94"/>
-<wire x1="-6.35" y1="5.08" x2="-6.35" y2="-2.54" width="0.4064" layer="94"/>
-<text x="-6.35" y="5.715" size="1.778" layer="95">&gt;NAME</text>
-<text x="-6.35" y="-5.08" size="1.778" layer="96">&gt;VALUE</text>
-<pin name="1" x="-2.54" y="2.54" visible="pad" length="short" direction="pas" function="dot"/>
-<pin name="2" x="-2.54" y="0" visible="pad" length="short" direction="pas" function="dot"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -4701,38 +4568,6 @@ In this library the device names are the same as the pin names of the symbols, t
 </connects>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:22430/2"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="PINHD-1X2" urn="urn:adsk.eagle:component:22516/3" prefix="JP" uservalue="yes" library_version="3">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<gates>
-<gate name="G$1" symbol="PINHD2" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="1X02">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:22435/2"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="/90" package="1X02/90">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:22437/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -5770,12 +5605,6 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <part name="U$1" library="milador" deviceset="NEOPIXELS-5MM" device="" package3d_urn="urn:adsk.eagle:package:6677832/4"/>
 <part name="JP7" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK"/>
 <part name="PAD1" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="2,54/1,1" device="" package3d_urn="urn:adsk.eagle:package:30836/1"/>
-<part name="Q1" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="2N2222" device="" package3d_urn="urn:adsk.eagle:package:6240647/1"/>
-<part name="R7" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="R-US_" device="0204/7" package3d_urn="urn:adsk.eagle:package:6240596/1" value="1K"/>
-<part name="SUPPLY5" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
-<part name="JP8" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK"/>
-<part name="PAD2" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="2,54/1,1" device="" package3d_urn="urn:adsk.eagle:package:30836/1"/>
-<part name="JP9" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X2" device="" package3d_urn="urn:adsk.eagle:package:22435/2"/>
 <part name="S1" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1"/>
 </parts>
 <sheets>
@@ -5871,29 +5700,6 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <attribute name="NAME" x="-105.9942" y="85.217" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-100.838" y="85.217" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="Q1" gate="G$1" x="88.9" y="22.86" smashed="yes">
-<attribute name="NAME" x="93.98" y="25.4" size="1.778" layer="95"/>
-<attribute name="VALUE" x="93.98" y="22.86" size="1.778" layer="96"/>
-</instance>
-<instance part="R7" gate="G$1" x="78.74" y="22.86" smashed="yes" rot="R180">
-<attribute name="NAME" x="82.55" y="21.3614" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="82.55" y="26.162" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="SUPPLY5" gate="GND" x="88.9" y="0" smashed="yes">
-<attribute name="VALUE" x="86.995" y="-3.175" size="1.778" layer="96"/>
-</instance>
-<instance part="JP8" gate="G$1" x="68.58" y="5.08" smashed="yes" rot="R90">
-<attribute name="NAME" x="66.04" y="2.54" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="81.28" y="-5.08" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
-</instance>
-<instance part="PAD2" gate="1" x="68.58" y="17.78" smashed="yes" rot="R180">
-<attribute name="NAME" x="69.723" y="15.9258" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="69.723" y="21.082" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="JP9" gate="G$1" x="101.6" y="7.62" smashed="yes">
-<attribute name="NAME" x="95.25" y="13.335" size="1.778" layer="95"/>
-<attribute name="VALUE" x="95.25" y="2.54" size="1.778" layer="96"/>
-</instance>
 <instance part="S1" gate="G$1" x="-22.86" y="35.56" smashed="yes" rot="R90">
 <attribute name="NAME" x="-24.384" y="35.56" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="-22.352" y="35.56" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
@@ -5945,12 +5751,6 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <label x="-55.88" y="93.98" size="1.778" layer="95" align="bottom-right"/>
 </segment>
 <segment>
-<pinref part="SUPPLY5" gate="GND" pin="GND"/>
-<wire x1="88.9" y1="7.62" x2="88.9" y2="2.54" width="0.1524" layer="91"/>
-<pinref part="JP9" gate="G$1" pin="2"/>
-<wire x1="88.9" y1="7.62" x2="99.06" y2="7.62" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="JP2" gate="A" pin="13"/>
 <pinref part="MS1" gate="G$1" pin="GND"/>
 <wire x1="-40.64" y1="38.1" x2="-55.88" y2="38.1" width="0.1524" layer="91"/>
@@ -5972,9 +5772,6 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <wire x1="68.58" y1="68.58" x2="68.58" y2="27.94" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="27.94" x2="53.34" y2="27.94" width="0.1524" layer="91"/>
 <junction x="53.34" y="27.94"/>
-<pinref part="Q1" gate="G$1" pin="C"/>
-<wire x1="68.58" y1="27.94" x2="91.44" y2="27.94" width="0.1524" layer="91"/>
-<junction x="68.58" y="27.94"/>
 </segment>
 </net>
 <net name="+12V" class="0">
@@ -6188,9 +5985,6 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <pinref part="MS1" gate="G$1" pin="GPIO6"/>
 <pinref part="JP1" gate="G$1" pin="4"/>
 <wire x1="-99.06" y1="60.96" x2="-119.38" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="JP8" gate="G$1" pin="1"/>
-<wire x1="68.58" y1="0" x2="68.58" y2="-17.78" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="-17.78" x2="-127" y2="-17.78" width="0.1524" layer="91"/>
 <wire x1="-127" y1="-17.78" x2="-127" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="-127" y1="60.96" x2="-119.38" y2="60.96" width="0.1524" layer="91"/>
 <junction x="-119.38" y="60.96"/>
@@ -6363,34 +6157,6 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <wire x1="-104.14" y1="88.9" x2="-111.76" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="-111.76" y1="88.9" x2="-111.76" y2="86.36" width="0.1524" layer="91"/>
 <junction x="-104.14" y="88.9"/>
-</segment>
-</net>
-<net name="N$26" class="0">
-<segment>
-<pinref part="R7" gate="G$1" pin="1"/>
-<pinref part="Q1" gate="G$1" pin="B"/>
-<wire x1="83.82" y1="22.86" x2="86.36" y2="22.86" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$27" class="0">
-<segment>
-<pinref part="Q1" gate="G$1" pin="E"/>
-<wire x1="91.44" y1="17.78" x2="91.44" y2="12.7" width="0.1524" layer="91"/>
-<pinref part="JP9" gate="G$1" pin="1"/>
-<wire x1="91.44" y1="12.7" x2="99.06" y2="12.7" width="0.1524" layer="91"/>
-<wire x1="99.06" y1="12.7" x2="99.06" y2="10.16" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$28" class="0">
-<segment>
-<pinref part="R7" gate="G$1" pin="2"/>
-<pinref part="PAD2" gate="1" pin="P"/>
-<wire x1="73.66" y1="22.86" x2="73.66" y2="17.78" width="0.1524" layer="91"/>
-<wire x1="73.66" y1="17.78" x2="66.04" y2="17.78" width="0.1524" layer="91"/>
-<pinref part="JP8" gate="G$1" pin="2"/>
-<wire x1="68.58" y1="10.16" x2="66.04" y2="10.16" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="10.16" x2="66.04" y2="17.78" width="0.1524" layer="91"/>
-<junction x="66.04" y="17.78"/>
 </segment>
 </net>
 </nets>
