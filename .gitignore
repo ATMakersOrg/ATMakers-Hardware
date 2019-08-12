@@ -1,22 +1,51 @@
+# Ignore list for Eagle, a PCB layout tool
 
-SwitchBoard/Eagle/bmp.scr
-SwitchBoard/Eagle/dxfimp.scr
-*.b#1
-*.b#2
-*.b#3
-*.b#4
-*.b#5
-*.b#6
-*.b#7
-*.b#8
-*.b#9
-PiWing/PiWing.b##
-PiWing/PiWing.s#1
-PiWing/PiWing.s#2
-PiWing/PiWing.s#3
-PiWing/PiWing.s#4
-PiWing/PiWing.s#5
-PiWing/PiWing.s#6
-PiWing/PiWing.s#7
-PiWing/PiWing.s#8
-TeensyLib/
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+
+# Eagle project file
+# It contains a serial number and references to the file structure
+# on your computer.
+# comment the following line if you want to have your project file included.
+eagle.epf
+
+# Autorouter files
+*.pro
+*.job
+
+# CAM files
+*.$$$
+*.cmp
+*.ly2
+*.l15
+*.sol
+*.plc
+*.stc
+*.sts
+*.crc
+*.crs
+
+*.dri
+*.drl
+*.gpi
+*.pls
+*.ger
+*.xln
+
+*.drd
+*.drd.*
+
+*.s#*
+*.b#*
+
+*.info
+
+*.eps
+
+# file locks introduced since 7.x
+*.lck
